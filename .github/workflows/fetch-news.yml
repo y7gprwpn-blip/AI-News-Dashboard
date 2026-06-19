@@ -1,0 +1,27 @@
+name: Fetch AI News
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch: {}
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: python -m pip install feedparser
+      - name: Fetch RSS and update news.json
+        run: python scripts/fetch_news.py
+      - name: Commit news.json
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: 'github-actions[bot]'
+          author_email: '41898282+github-actions[bot]@users.noreply.github.com'
+          add: 'news.json'
+          message: 'Update news.json'
+          push: true

@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>まどかAI観測所</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f5f7fb;
+      --ink: #111827;
+      --muted: #667085;
+      --line: #dbe3ef;
+      --panel: #ffffff;
+      --navy: #101828;
+      --accent: #2563eb;
+      --accent-soft: #e8f0ff;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--bg);
+      color: var(--ink);
+      line-height: 1.6;
+    }
+
+    header {
+      padding: 30px 18px 22px;
+      background:
+        radial-gradient(circle at top left, rgba(37, 99, 235, 0.28), transparent 34%),
+        linear-gradient(180deg, #101828 0%, #1d2939 100%);
+      color: #fff;
+    }
+
+    .hero {
+      width: min(1080px, 100%);
+      margin: 0 auto;
+    }
+
+    .eyebrow {
+      margin: 0 0 8px;
+      color: #bfdbfe;
+      font-size: 0.9rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(2rem, 7vw, 3.1rem);
+      line-height: 1.12;
+      letter-spacing: 0;
+    }
+
+    header p {
+      max-width: 760px;
+      margin: 12px 0 0;
+      color: #d0d5dd;
+      font-size: 1rem;
+    }
+
+    .status {
+      padding: 14px 18px;
+      background: var(--panel);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .status-inner {
+      width: min(1080px, 100%);
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      flex-wrap: wrap;
+      color: var(--muted);
+      font-size: 0.94rem;
+    }
+
+    main {
+      width: min(1080px, 100%);
+      margin: 0 auto;
+      padding: 18px 18px 40px;
+    }
+
+    .category-nav {
+      display: flex;
+      gap: 8px;
+      overflow-x: auto;
+      padding: 2px 0 16px;
+      scrollbar-width: thin;
+    }
+
+    .category-nav a {
+      flex: 0 0 auto;
+      color: #344054;
+      background: #fff;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 8px 12px;
+      font-size: 0.9rem;
+      text-decoration: none;
+      white-space: nowrap;
+    }
+
+    .category {
+      margin-bottom: 22px;
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 12px 32px rgba(16, 24, 40, 0.06);
+    }
+
+    .category-header {
+      padding: 16px 18px;
+      background: var(--navy);
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+    }
+
+    .category-header h2 {
+      margin: 0;
+      font-size: 1.06rem;
+    }
+
+    .count {
+      color: #d0d5dd;
+      font-size: 0.9rem;
+      white-space: nowrap;
+    }
+
+    .cards {
+      display: grid;
+      gap: 14px;
+      padding: 14px;
+    }
+
+    .card {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      min-width: 0;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 16px;
+      background: #fff;
+      transition: transform 0.18s ease, border-color 0.18s ease, box-shadow 0.18s ease;
+    }
+
+    .card:hover {
+      transform: translateY(-2px);
+      border-color: #b6c4d8;
+      box-shadow: 0 10px 22px rgba(16, 24, 40, 0.08);
+    }
+
+    .card-title {
+      margin: 0;
+      font-size: 1.02rem;
+      line-height: 1.45;
+    }
+
+    .card-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+      color: var(--muted);
+      font-size: 0.88rem;
+    }
+
+    .tag {
+      color: #1d4ed8;
+      background: var(--accent-soft);
+      border-radius: 999px;
+      padding: 3px 8px;
+      font-weight: 700;
+    }
+
+    .memo {
+      margin: 0;
+      color: #344054;
+      font-size: 0.95rem;
+    }
+
+    .summary-lines {
+      margin: 0;
+      padding: 10px 0 0 18px;
+      border-top: 1px solid var(--line);
+      color: #344054;
+      font-size: 0.92rem;
+    }
+
+    .summary-lines li + li {
+      margin-top: 6px;
+    }
+
+    .link-button {
+      width: fit-content;
+      margin-top: auto;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 40px;
+      padding: 9px 13px;
+      border-radius: 8px;
+      background: var(--accent);
+      color: #fff;
+      font-weight: 700;
+      text-decoration: none;
+      font-size: 0.92rem;
+    }
+
+    .empty {
+      margin: 0;
+      padding: 24px 18px;
+      color: var(--muted);
+      text-align: center;
+    }
+
+    .empty-state {
+      margin: 0;
+      padding: 36px 18px;
+      background: #fff;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      color: var(--muted);
+      text-align: center;
+      box-shadow: 0 12px 32px rgba(16, 24, 40, 0.06);
+    }
+
+    .empty-state strong {
+      display: block;
+      margin-bottom: 8px;
+      color: var(--ink);
+      font-size: 1.15rem;
+    }
+
+    @media (min-width: 700px) {
+      header { padding: 42px 24px 30px; }
+      main { padding: 24px 24px 48px; }
+      .cards { grid-template-columns: repeat(2, minmax(0, 1fr)); padding: 18px; }
+    }
+
+    @media (min-width: 980px) {
+      .cards { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="hero">
+      <p class="eyebrow">AI NEWS OBSERVATORY</p>
+      <h1>まどかAI観測所</h1>
+      <p>生成AI、医療領域、画像・動画生成、中国AI、規制と著作権まで。気になるニュースをカテゴリ別に眺めるための小さな観測所です。</p>
+    </div>
+  </header>
+
+  <section class="status" aria-label="更新情報">
+    <div class="status-inner">
+      <span id="updated">最新情報を読み込み中...</span>
+      <span id="feed-status">RSS取得結果を確認中...</span>
+    </div>
+  </section>
+
+  <main>
+    <nav class="category-nav" id="category-nav" aria-label="カテゴリ"></nav>
+    <div id="news-root"></div>
+  </main>
+
+  <script>
+    const categoryNames = [
+      "AI全般",
+      "医療AI",
+      "医療ライター",
+      "医療イラスト",
+      "画像生成AI",
+      "動画生成AI",
+      "中国AI",
+      "AI規制・著作権"
+    ];
+
+    const categoryOrder = Object.fromEntries(categoryNames.map((name, index) => [name, index]));
+
+    function escapeHtml(value) {
+      return String(value ?? "").replace(/[&<>"']/g, (char) => ({
+        "&": "&amp;",
+        "<": "&lt;",
+        ">": "&gt;",
+        "\"": "&quot;",
+        "'": "&#39;"
+      })[char]);
+    }
+
+    function formatDate(value) {
+      const date = new Date(value);
+      if (Number.isNaN(date.getTime())) return "日付未設定";
+      return date.toLocaleDateString("ja-JP", { year: "numeric", month: "2-digit", day: "2-digit" });
+    }
+
+    function createCard(item) {
+      const title = escapeHtml(item.title);
+      const source = escapeHtml(item.source || "出典不明");
+      const category = escapeHtml(item.category || "未分類");
+      const memo = escapeHtml(item.memo || item.summary || "メモはまだありません。");
+      const link = escapeHtml(item.link || "#");
+      const summaryLines = Array.isArray(item.summaryLines) && item.summaryLines.length > 0
+        ? item.summaryLines
+        : [
+            item.summary || item.memo || "記事の概要を確認します。",
+            "AIの活用や社会実装に関わる動きです。",
+            "まどかAI観測所では、今後の影響と実用性を見ます。"
+          ];
+      const summaryHtml = summaryLines
+        .slice(0, 3)
+        .map((line) => `<li>${escapeHtml(line)}</li>`)
+        .join("");
+
+      return `
+        <article class="card">
+          <h3 class="card-title">${title}</h3>
+          <div class="card-meta">
+            <span>${source}</span>
+            <span>${formatDate(item.pubDate)}</span>
+            <span class="tag">${category}</span>
+          </div>
+          <p class="memo">${memo}</p>
+          <ol class="summary-lines">${summaryHtml}</ol>
+          <a class="link-button" href="${link}" target="_blank" rel="noopener noreferrer">記事を開く</a>
+        </article>
+      `;
+    }
+
+    function renderCategory(name, items) {
+      const id = `category-${categoryOrder[name]}`;
+      const cards = items.length > 0
+        ? items.map(createCard).join("")
+        : '<p class="empty">このカテゴリのニュースはまだありません。</p>';
+
+      return `
+        <section class="category" id="${id}">
+          <div class="category-header">
+            <h2>${name}</h2>
+            <span class="count">${items.length}件</span>
+          </div>
+          <div class="cards">${cards}</div>
+        </section>
+      `;
+    }
+
+    function renderNav() {
+      document.getElementById("category-nav").innerHTML = categoryNames
+        .map((name) => `<a href="#category-${categoryOrder[name]}">${name}</a>`)
+        .join("");
+    }
+
+    async function loadNews() {
+      try {
+        renderNav();
+        const response = await fetch("news.json");
+        if (!response.ok) throw new Error("news.jsonを取得できませんでした");
+        const data = await response.json();
+        document.getElementById("updated").textContent = `最終更新: ${new Date(data.updated).toLocaleString("ja-JP")}`;
+        const items = data.items || [];
+        document.getElementById("feed-status").textContent = items.length > 0
+          ? "RSSから取得したニュースを表示しています"
+          : "RSS取得結果がありません";
+
+        if (items.length === 0) {
+          document.getElementById("news-root").innerHTML = `
+            <section class="empty-state">
+              <strong>RSS取得結果がありません</strong>
+              <span>RSS取得に失敗したか、カテゴリ判定に一致する記事がありませんでした。</span>
+            </section>
+          `;
+          return;
+        }
+
+        const grouped = categoryNames.reduce((acc, name) => {
+          acc[name] = [];
+          return acc;
+        }, {});
+
+        items.forEach((item) => {
+          if (grouped[item.category]) grouped[item.category].push(item);
+        });
+
+        document.getElementById("news-root").innerHTML = categoryNames
+          .sort((a, b) => categoryOrder[a] - categoryOrder[b])
+          .map((name) => renderCategory(name, grouped[name]))
+          .join("");
+      } catch (error) {
+        document.getElementById("updated").textContent = "更新情報の取得に失敗しました";
+        document.getElementById("feed-status").textContent = "ニュースの読み込みに失敗しました";
+        document.getElementById("news-root").innerHTML = `<p class="empty">ニュースの読み込みに失敗しました。${escapeHtml(error.message)}</p>`;
+        console.error(error);
+      }
+    }
+
+    loadNews();
+  </script>
+</body>
+</html>
