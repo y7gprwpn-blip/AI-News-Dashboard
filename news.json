@@ -1,121 +1,277 @@
 {
-  "updated": "2026-07-27T09:32:37.583034Z",
+  "updated": "2026-07-27T14:11:32.011096Z",
   "items": [
     {
-      "title": "ＡＩ利用の防災基盤開発へ - 中国新聞デジタル",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CMWJRQkdtZ1oxWWJwQjN6S1dQVS01Vk51TzRzVmd1VlJXM29FYTFjTUpUdUY5ODMxclFWYmZDODNsVW1nYmI0dlhZcHR1OUFuWE1Ra0d0RmJfUQ?oc=5",
-      "pubDate": "2026-07-27T09:13:28Z",
-      "source": "Google News: AI",
-      "category": "中国AI",
-      "memo": "ＡＩ利用の防災基盤開発へ 中国新聞デジタル",
+      "title": "AIのトークン価格を10分の1にできる「プロンプトキャッシュ」の仕組みとは？",
+      "link": "https://gigazine.net/news/20260727-prompt-caching/",
+      "pubDate": "2026-07-27T14:00:00Z",
+      "source": "GIGAZINE",
+      "category": "AI全般",
+      "memo": "OpenAIのGPTシリーズやAnthropicのClaudeなどの大規模言語モデル(LLM)では、同じプロンプトを繰り返し利用する場合に入力トークンの処理を…",
       "summaryLines": [
-        "ＡＩ利用の防災基盤開発へ 中国新聞デジタル",
+        "OpenAIのGPTシリーズやAnthropicのClaudeなどの大規模言語モデル(LLM)では、同じプロンプトを繰り返し利用する場合に入力トークンの処理を再利用する「プロンプトキ…",
+        "AIの使われ方や競争環境が変わる可能性があります。",
+        "まどかAI観測所では、どの仕事や生活シーンに広がるかを見ます。"
+      ]
+    },
+    {
+      "title": "中国が米国のAI非難を「覇権主義」と非難し対抗措置を示唆 - Межа. Новини України.",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HRm5uQTktUXhZRmdRSHJBTGxjeFd5Q0ZqTTI3c3A5dEpnUUM5QXZRb1RxWkEtX3Vyb2sxdU93SFVza1lESEZXUHdEWS12MjF0clJQaWh1ZGJoMjlIcEFKXw?oc=5",
+      "pubDate": "2026-07-27T13:43:30Z",
+      "source": "Google News: 中国 AI",
+      "category": "中国AI",
+      "memo": "中国が米国のAI非難を「覇権主義」と非難し対抗措置を示唆 Межа. Новини України.",
+      "summaryLines": [
+        "中国が米国のAI非難を「覇権主義」と非難し対抗措置を示唆 Межа.",
         "中国企業や政策の動きは、価格競争や技術潮流を見る材料になります。",
         "まどかAI観測所では、日本や海外市場への影響を見ます。"
       ]
     },
     {
-      "title": "AI利用の防災基盤開発へ ソフトバンクと東北大 - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTHppYXloZF8zSkZkS24ycHlGU0JyOXlfWjVFaXk1Um9WUXdyOV9YS0EwbmtHNUxEWHpFZFd5OEJnOU1WTGV0a3F0RGVlXzVOOVU3MU5PM3Nkay13SEkzUlNBeHRjSzJ2R3NvRm5jRkdBZTZyQy1INFdoZ0J6aGN6am5yd1R3MVhwRDFyUFVsNUpGZzdNNkFnLUEzdG9GSXZN0gGTAUFVX3lxTFBCOG85WE05MVJZcndrcjQ1MTRZRGkyZUJDbVN5ZWZqZW9xQURqcWVua0NvLW54dHpFdGk2dGNBanV0RDJleG04cnBibVdyOE5HeS1FNmtNa0tlcmJWb0xDLVJQSHlGaUF4a3FyYmtISHZncDZMcGFSRGVFaDVCR0RybXdFVTRYX0dQMGVrR2EwckNDYw?oc=5",
-      "pubDate": "2026-07-27T09:13:00Z",
+      "title": "「メイド・イン・チャイナ」から中国のAIブームまで - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JRnhFcUNYUXl6Wkc3c1ZZTXFHeTNVQ1EzX3JoVlpDN3g3T1F2WjFwTmpJemRYWWVBdmk0MjI5Mm0xclNQQmFVbzZNZmppb1VXYlo5RVlUWnJhYzJ0c2VnNl9nNWxXbXRaUE9uOWZtcmdZai1TcF8yQg?oc=5",
+      "pubDate": "2026-07-27T13:29:16Z",
+      "source": "Google News: 中国 AI",
+      "category": "中国AI",
+      "memo": "「メイド・イン・チャイナ」から中国のAIブームまで Vietnam.vn",
+      "summaryLines": [
+        "「メイド・イン・チャイナ」から中国のAIブームまで Vietnam.",
+        "中国企業や政策の動きは、価格競争や技術潮流を見る材料になります。",
+        "まどかAI観測所では、日本や海外市場への影響を見ます。"
+      ]
+    },
+    {
+      "title": "〔トップ登場〕AI時代に最も信頼される企業に＝日本IBMの村田次期社長(時事通信) - Yahoo!ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVVBkc0dDVFdqd1YzWHh1YkNLSnlBOHB3dGJZYmVMWDRuSWhuUXo0bEpkU0R4aUhCTHNvMXZNZXlWRndQZEx5OW5NYkI5alExSGdGaF9UY3NSVEhPa0Y1YlpVM1ptdUxXXzcxYlBWYkw5aUFZTGphaVZIUm1BWDk2N3hibmZqcUE?oc=5",
+      "pubDate": "2026-07-27T13:06:00Z",
       "source": "Google News: AI",
       "category": "AI全般",
-      "memo": "AI利用の防災基盤開発へ ソフトバンクと東北大 ｄメニューニュース",
+      "memo": "〔トップ登場〕AI時代に最も信頼される企業に＝日本IBMの村田次期社長(時事通信) Yahoo!ファイナンス",
       "summaryLines": [
-        "AI利用の防災基盤開発へ ソフトバンクと東北大 ｄメニューニュース",
+        "〔トップ登場〕AI時代に最も信頼される企業に＝日本IBMの村田次期社長(時事通信) Yahoo!",
         "AIの使われ方や競争環境が変わる可能性があります。",
         "まどかAI観測所では、どの仕事や生活シーンに広がるかを見ます。"
       ]
     },
     {
-      "title": "ＡＩ利用の防災基盤開発へ ソフトバンクと東北大 | | 全国のニュース - 佐賀新聞",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xelBENkVKeU1XM1dRU3ZYQTJ2Z0NsY1dEWlhZY0NRclBqM3ExNEpNUk5fT1VLUkZvZVdpNXpMRElORVlmbWd5RnJKNk5rV2V0eS1vXzJB?oc=5",
-      "pubDate": "2026-07-27T09:13:00Z",
-      "source": "Google News: AI",
+      "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+      "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+      "pubDate": "2026-07-27T13:00:00Z",
+      "source": "TechCrunch",
       "category": "AI全般",
-      "memo": "ＡＩ利用の防災基盤開発へ ソフトバンクと東北大 | | 全国のニュース 佐賀新聞",
+      "memo": "The massive seed round was led by Index Ventures and Ribbit Capital, with parti…",
       "summaryLines": [
-        "ＡＩ利用の防災基盤開発へ ソフトバンクと東北大 | | 全国のニュース 佐賀新聞",
+        "The massive seed round was led by Index Ventures and Ribbit Capital, with participation fro…",
         "AIの使われ方や競争環境が変わる可能性があります。",
         "まどかAI観測所では、どの仕事や生活シーンに広がるかを見ます。"
       ]
     },
     {
-      "title": "「声」に権利、損害賠償も 生成AIでの無断利用 法務省指針（時事通信） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zVkJrc0lLcU90RTNWbjZNenBpUlJrMmZibFJ2c0VrNmQ5dzRzWFlDbVZISjMxdVIybjlIQmZBQnlvbmZPZ1B1YXl5UDdYYzNpUUhsRnZDaEdha1VGbW1NcVVkVkpUaWhYajR0MTZCMERjUkU0QU1YOUFweXY3TFE?oc=5",
-      "pubDate": "2026-07-27T09:12:13Z",
+      "title": "AI導入企業、利益率が改善へ－モルガン・スタンレーが予想 - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORTE5ZnpLZzBBWmljMzNvUUdpbEtZLWY5Q2pqWFFYMFhxXzdTMG9NSndWUFBUX1cxMGtLYllVT2RMZElPbVF2ZndydXJUTzZSRlB3YzJJQlUzLTZSenYtX1RCZS1GeUNaSFkwWVJiNkVXeGV2MlFXOU9pMFFJc01XaDJIeTJQZHJKenFmaA?oc=5",
+      "pubDate": "2026-07-27T12:57:39Z",
       "source": "Google News: AI",
       "category": "AI全般",
-      "memo": "「声」に権利、損害賠償も 生成AIでの無断利用 法務省指針（時事通信） Yahoo!ニュース",
+      "memo": "AI導入企業、利益率が改善へ－モルガン・スタンレーが予想 Bloomberg.com",
       "summaryLines": [
-        "「声」に権利、損害賠償も 生成AIでの無断利用 法務省指針（時事通信） Yahoo!",
+        "AI導入企業、利益率が改善へ－モルガン・スタンレーが予想 Bloomberg.",
         "AIの使われ方や競争環境が変わる可能性があります。",
         "まどかAI観測所では、どの仕事や生活シーンに広がるかを見ます。"
       ]
     },
     {
-      "title": "静岡銀行で三菱総合研究所「審査AIサービス」の実務適用を開始 - at-s.com",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DbFZ5aFhBRE5qdlIyZ09vNktaOTBzLVc5SGs1aVR4Mm5tTE9Lc1VPMHdyak5GaXlEekRrbnlvYnJVWFNMQ0JWVDAtaXNmUjRaTUdHVTZrUjliV2ItT01mM1lXdlFQZw?oc=5",
-      "pubDate": "2026-07-27T09:06:02Z",
+      "title": "「声の権利」保護 生成AIによる権利侵害巡り法務省が指針案を大筋了承 - テレ朝NEWS",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxekw2NVFoQVZxZHdoV0M2N1gtRUF6dmdtNTNPVVNoR1hPc2JkRzNkR0lXOTVOVFVSdURBTmRfT3hBRTJMel9xbUd4X3poSU9XUHV3cnZhRnF0OVVHLWNNb2pZNWlRWTQ3TjRjSXF4dGgxZw?oc=5",
+      "pubDate": "2026-07-27T12:39:24Z",
       "source": "Google News: AI",
       "category": "AI全般",
-      "memo": "静岡銀行で三菱総合研究所「審査AIサービス」の実務適用を開始 at-s.com",
+      "memo": "「声の権利」保護 生成AIによる権利侵害巡り法務省が指針案を大筋了承 テレ朝NEWS",
       "summaryLines": [
-        "静岡銀行で三菱総合研究所「審査AIサービス」の実務適用を開始 at-s.",
+        "「声の権利」保護 生成AIによる権利侵害巡り法務省が指針案を大筋了承 テレ朝NEWS",
         "AIの使われ方や競争環境が変わる可能性があります。",
         "まどかAI観測所では、どの仕事や生活シーンに広がるかを見ます。"
       ]
     },
     {
-      "title": "熊本に「フィジカルAI」の開発拠点 三井不動産と熊本県がタッグ - 朝日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByZkxobVA1Wm5OV1Q1bmRlSGlIU3ZSdVVydzItM0NzRTdRSktYODFyN003SHI0b0NoUE9hbkg1NHVaSUhxSXJ6OW5FX2pZcVVXcy1TZHpDbno0S3ZTLWk3YUVYVGZIZWs?oc=5",
-      "pubDate": "2026-07-27T09:00:00Z",
+      "title": "ハリウッド美容最新トレンド7選│フィラー離れ、男性整形、AI顔……セレブたちの“美”のこだわりと悩みとは？ - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fRTM4WjBORm5PNE1VODBnU3llUi11WG5xMkh3T0hwLUMtTE9mdjczTkNpS01YTXZGUVhRZlVYbWd0a0g3cXltZHdkREp6Z21xYjBxMmNJRHJXOWRUWDh0ME5tQnJwMHNlREFPajRhRElBOHpCT3FXaXFxRHdybVk?oc=5",
+      "pubDate": "2026-07-27T12:32:26Z",
       "source": "Google News: AI",
       "category": "AI全般",
-      "memo": "熊本に「フィジカルAI」の開発拠点 三井不動産と熊本県がタッグ 朝日新聞",
+      "memo": "ハリウッド美容最新トレンド7選│フィラー離れ、男性整形、AI顔……セレブたちの“美”のこだわりと悩みとは？ Yahoo!ニュース",
       "summaryLines": [
-        "熊本に「フィジカルAI」の開発拠点 三井不動産と熊本県がタッグ 朝日新聞",
+        "ハリウッド美容最新トレンド7選│フィラー離れ、男性整形、AI顔……セレブたちの“美”のこだわりと悩みとは？",
         "AIの使われ方や競争環境が変わる可能性があります。",
         "まどかAI観測所では、どの仕事や生活シーンに広がるかを見ます。"
       ]
     },
     {
-      "title": "ソフトバンクと東北大、防災AIとデジタルツインで災害対策強化へ - ビジネス+IT",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WdlhZLUFvYWsyQVA3STBIWG92UlhJSWNSSWZFUDNBcDlHTFhONndacjNvenZUMHRNSjZraUZWUUlieGZOUzZ2aWxTWTMwZ3QtS2RV?oc=5",
-      "pubDate": "2026-07-27T09:00:00Z",
-      "source": "Google News: AI",
+      "title": "日本中の「AIでつくってみた」が集まるお祭り「生成AIなんでも展示会 Vol.6」9月23日（水・祝）浜松町で開催！約300組出展予定・入場無料 - ラブすぽ",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOZ1ZKVU5PNnZ0VjBJbWVmQWV0MnVhbHRsSWUtbl9zaTNQNHJfcmlnZm1rQVpfb3AzSWpCVnZRa205ZHFzVEpONmtJMEtUcXZac2VPcFVYdHRLSVdodTNsVm1HUkN2RnN0SldTR3ZvSnhmVVdHalVLNl9qRFpGTGFSSjZrdmg3LXFtbVlHYldvaWRlLTZHQ1o3R0lBWEdXV1p2RllNeU42R3ZEQ3ZNTm94T1haQ3NucGNCZ19maGU0WFV3S0VUeDBuRFl6TThocmFxMURHWGVySFcwOGswZnF0RzFyelJXN2U2b00zQmZmQ0NXYlZ5aENDUVdyZDV4LTNkRmNFM2dPR0dlalljN014MERuMTJMRUpaZDFDYm9zUXctTEJmY09mZEh0dUZ5SU1pYWxxemFFc01tQTNaX2FxeWxza19GeDJzM2R4M3lhQQ?oc=5",
+      "pubDate": "2026-07-27T12:31:57Z",
+      "source": "Google News: 生成AI",
       "category": "AI全般",
-      "memo": "ソフトバンクと東北大、防災AIとデジタルツインで災害対策強化へ ビジネス+IT",
+      "memo": "日本中の「AIでつくってみた」が集まるお祭り「生成AIなんでも展示会 Vol.6」9月23日（水・祝）浜松町で開催！約300組出展予定・入場無料 ラブすぽ",
       "summaryLines": [
-        "ソフトバンクと東北大、防災AIとデジタルツインで災害対策強化へ ビジネス+IT",
+        "日本中の「AIでつくってみた」が集まるお祭り「生成AIなんでも展示会 Vol.",
         "AIの使われ方や競争環境が変わる可能性があります。",
         "まどかAI観測所では、どの仕事や生活シーンに広がるかを見ます。"
       ]
     },
     {
-      "title": "Pendo、AIエージェントに行動データをリアルタイム連携する新ソリューション - ビジネスネットワーク",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qRU9SRUNidERjSm1GQS1VVVpjRVhEX1didlZJSi1FalNHNElyUGRRd1FDUnoxZ2oySU90R0tUdWRzbk9xeFZWLVpjQnhfQmd4TEdz?oc=5",
-      "pubDate": "2026-07-27T08:59:50Z",
+      "title": "放送の運行監視をAIで テレビ北海道のシステム、岡山と福岡の放送局に導入 - 北海道新聞デジタル",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IdDJxRTNhUUJEQ1BKYUlKR1g4a1ZLVExJUGpVdHVXa000LVFEZjFxdzI2M1Y5WnBBUDZDeXpOMkp5Z3BmVDBlaFVsV1NNblZEeXFNYk5pWEZYUQ?oc=5",
+      "pubDate": "2026-07-27T12:26:45Z",
       "source": "Google News: AI",
       "category": "AI全般",
-      "memo": "Pendo、AIエージェントに行動データをリアルタイム連携する新ソリューション ビジネスネットワーク",
+      "memo": "放送の運行監視をAIで テレビ北海道のシステム、岡山と福岡の放送局に導入 北海道新聞デジタル",
       "summaryLines": [
-        "Pendo、AIエージェントに行動データをリアルタイム連携する新ソリューション ビジネスネットワーク",
+        "放送の運行監視をAIで テレビ北海道のシステム、岡山と福岡の放送局に導入 北海道新聞デジタル",
         "AIの使われ方や競争環境が変わる可能性があります。",
         "まどかAI観測所では、どの仕事や生活シーンに広がるかを見ます。"
       ]
     },
     {
-      "title": "熊本半導体パークが日台7機関と連携 三井不、フィジカルAI拠点も - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oN0hrNE1UYlJsTmxlTDhfUEFpTHZ3YTdxUHpJQ0JaXzZPSmx4YjhZWXFNOW01WlR6ZlBNSDA0UGUxQzNseDNSXzBLNnNUbk1ldjRCaUloc0RUNnlfYmhIVHA2SlNpNThBUlFqaA?oc=5",
-      "pubDate": "2026-07-27T08:58:17Z",
-      "source": "Google News: AI",
-      "category": "AI全般",
-      "memo": "熊本半導体パークが日台7機関と連携 三井不、フィジカルAI拠点も 日本経済新聞",
+      "title": "「こんなのに追われたら……」急斜面もやすやす爆走、中国製の車輪付き四足ロボのデモ動画が話題 最高時速20km超",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/27/news099.html",
+      "pubDate": "2026-07-27T11:50:00Z",
+      "source": "ITmedia NEWS",
+      "category": "中国AI",
+      "memo": "中国のロボットメーカーUnitree Roboticsは7月24日（現地時間）、車輪付きの四足ロボット「Unitree Super Athlete AS2-W…",
       "summaryLines": [
-        "熊本半導体パークが日台7機関と連携 三井不、フィジカルAI拠点も 日本経済新聞",
-        "AIの使われ方や競争環境が変わる可能性があります。",
-        "まどかAI観測所では、どの仕事や生活シーンに広がるかを見ます。"
+        "中国のロボットメーカーUnitree Roboticsは7月24日（現地時間）、車輪付きの四足ロボット「Unitree Super Athlete AS2-W」が岩場を走るデモ映像を…",
+        "中国企業や政策の動きは、価格競争や技術潮流を見る材料になります。",
+        "まどかAI観測所では、日本や海外市場への影響を見ます。"
+      ]
+    },
+    {
+      "title": "Closing the data loop in AI-driven drug discovery",
+      "link": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+      "pubDate": "2026-07-27T11:40:16Z",
+      "source": "MIT Technology Review",
+      "category": "医療AI",
+      "memo": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressur…",
+      "summaryLines": [
+        "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a mar…",
+        "医療現場での安全性、精度、運用体制に関わる動きです。",
+        "まどかAI観測所では、臨床で本当に使える形になるかを見ます。"
+      ]
+    },
+    {
+      "title": "Building the enterprise environment for agentic AI",
+      "link": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+      "pubDate": "2026-07-27T11:32:58Z",
+      "source": "MIT Technology Review",
+      "category": "AI規制・著作権",
+      "memo": "For the enterprise, the promise of agentic AI is much more than just a better c…",
+      "summaryLines": [
+        "For the enterprise, the promise of agentic AI is much more than just a better chatbot.",
+        "AI利用ルールやクリエイター保護の実務に関わる論点です。",
+        "まどかAI観測所では、実務で何を変える必要があるかを見ます。"
+      ]
+    },
+    {
+      "title": "米国が震撼…中国AI「Kimi K3ショック」デジタル覇権どうなる - ABEMA",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92ZEdkd0ZiRENFWkpndUY4RjBxZUtNY2NBREVORlFVeUhXdWV2el9nRWc0YzdyY1l1SUJoQVpRS1lGUGtGWU9DU0dTNEVtQlB6ZURNZ1l4SjdOREE?oc=5",
+      "pubDate": "2026-07-27T11:25:37Z",
+      "source": "Google News: 中国 AI",
+      "category": "中国AI",
+      "memo": "米国が震撼…中国AI「Kimi K3ショック」デジタル覇権どうなる ABEMA",
+      "summaryLines": [
+        "米国が震撼…中国AI「Kimi K3ショック」デジタル覇権どうなる ABEMA",
+        "中国企業や政策の動きは、価格競争や技術潮流を見る材料になります。",
+        "まどかAI観測所では、日本や海外市場への影響を見ます。"
+      ]
+    },
+    {
+      "title": "中国、米国にAI制裁の停止を要求 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEbHRnT1M4RldfX0xQQ3hkcEtWQUdkeG1WVTI1UlRYLWY4TEFRempZV0kxbExYN2NHTUdRb3NqcFZRUHQtaWRCMTdaMW9FVGw1YnkyWlBqRXBrc2hrXzZ6Nk52R1pURHFSR1lyclBYeUk?oc=5",
+      "pubDate": "2026-07-27T10:52:00Z",
+      "source": "Google News: 中国 AI",
+      "category": "中国AI",
+      "memo": "中国、米国にAI制裁の停止を要求 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "summaryLines": [
+        "中国、米国にAI制裁の停止を要求 執筆 Investing.",
+        "中国企業や政策の動きは、価格競争や技術潮流を見る材料になります。",
+        "まどかAI観測所では、日本や海外市場への影響を見ます。"
+      ]
+    },
+    {
+      "title": "中国は食料安全保障を強化するため、AIと遺伝子編集技術の開発を加速させている。 - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTmNnUHN3dTUyaVlWY21HbnMybzlra215V2x3aVdoVU1BZEhkbUEtejJHMVdyY3ZITG9HRHFOMVlFNXFudGZ0QktHUVVhSGlPM0R1WF9fSEJkcFBVVWxUQXdQN3dfcE1uQkFUTHFVNUdLeTJxYU1RV2xZXzZWM3hLXzV1THdKSXY3SDhBLW9kMHFqUnROSTIzOWtVRUZZZnFrSjdOelQwYVB4QkE?oc=5",
+      "pubDate": "2026-07-27T10:35:53Z",
+      "source": "Google News: 中国 AI",
+      "category": "中国AI",
+      "memo": "中国は食料安全保障を強化するため、AIと遺伝子編集技術の開発を加速させている。 Vietnam.vn",
+      "summaryLines": [
+        "中国は食料安全保障を強化するため、AIと遺伝子編集技術の開発を加速させている。",
+        "中国企業や政策の動きは、価格競争や技術潮流を見る材料になります。",
+        "まどかAI観測所では、日本や海外市場への影響を見ます。"
+      ]
+    },
+    {
+      "title": "パラメータ数は2.8兆!? 中国のスタートアップが超高性能なAIモデルを発表 - Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV1d0LUNTYUpiNkkzRXNCaS1UQ3doN1JJQXhZaGx0TjdSdDdjeFdpdjNVUHd2elBDUE1QUTNFOFNEZlJzTHpZMzlTaHp0Qml0VG5tWHg2MTFBWXlKUVFxdldXaGNuSUpLaVpaeWowWHppMl9MeXVwMUhJbkNKRGxHdEdQYnNVQmVVRUxRVkd3bkFKY2hCSVZucTFGOWpyZw?oc=5",
+      "pubDate": "2026-07-27T10:00:00Z",
+      "source": "Google News: 中国 AI",
+      "category": "中国AI",
+      "memo": "パラメータ数は2.8兆!? 中国のスタートアップが超高性能なAIモデルを発表 Gizmodo",
+      "summaryLines": [
+        "パラメータ数は2.",
+        "中国企業や政策の動きは、価格競争や技術潮流を見る材料になります。",
+        "まどかAI観測所では、日本や海外市場への影響を見ます。"
+      ]
+    },
+    {
+      "title": "AI需要がCXMTを中国最価値企業に - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OQWdpSkNObGZDOTB4R1R2NmFnamJyQmgyY3dHT0tJRDM0RnQzX2IzTnFhZnktSl9MZ3JMSUxvczdNcm10VEVoeWh4bjlOLUhEOWNtZWJkTC1oWXNxS0U5b1hjTGZ4Q0NlQmc?oc=5",
+      "pubDate": "2026-07-27T09:51:47Z",
+      "source": "Google News: 中国 AI",
+      "category": "中国AI",
+      "memo": "AI需要がCXMTを中国最価値企業に BeInCrypto",
+      "summaryLines": [
+        "AI需要がCXMTを中国最価値企業に BeInCrypto",
+        "中国企業や政策の動きは、価格競争や技術潮流を見る材料になります。",
+        "まどかAI観測所では、日本や海外市場への影響を見ます。"
+      ]
+    },
+    {
+      "title": "無断生成の抑止なるか…「声も権利保護の対象」と明記した指針案を公表…生成AI動画で声優や俳優の声や顔が無断で使用されている問題受けて 法務省検討会 - TBS NEWS DIG",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05OWowUWxLT3VBSDViNGFlMlZpMkNiYXMyRldFWGF1TUV5ZUNvUEktX1dSOVU5UHFJNVFmVDF6OGhTV21OWC1ob0ZTOFNHTGRwMklXSTBnTQ?oc=5",
+      "pubDate": "2026-07-27T09:28:21Z",
+      "source": "Google News: 生成AI",
+      "category": "動画生成AI",
+      "memo": "無断生成の抑止なるか…「声も権利保護の対象」と明記した指針案を公表…生成AI動画で声優や俳優の声や顔が無断で使用されている問題受けて 法務省検討会 TBS N…",
+      "summaryLines": [
+        "無断生成の抑止なるか…「声も権利保護の対象」と明記した指針案を公表…生成AI動画で声優や俳優の声や顔が無断で使用されている問題受けて 法務省検討会 TBS NEWS DIG",
+        "広告、教育、SNS向け動画制作のワークフローに影響します。",
+        "まどかAI観測所では、動画制作のコストと信頼性の変化を見ます。"
+      ]
+    },
+    {
+      "title": "無断生成の抑止なるか…「声も権利保護の対象」と明記した指針案を公表…生成AI動画で声優や俳優の声や顔が無断で使用されている問題受けて 法務省検討会 - au Webポータル",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnWDNUWk5tbkJJemdTSG1fVlU5QWp4dDVGRm1kcWtvLVlSejVtbkw5N0xuT3JMdkRHZzZZdE5YU2NST09UMVc2czlUeE5RUThITzRzZU9DUmRBX1pDLXpDdzhNUXlSa3c0NUJIbVE4d19JMHlEdjVUTzRGVQ?oc=5",
+      "pubDate": "2026-07-27T09:28:00Z",
+      "source": "Google News: 生成AI",
+      "category": "動画生成AI",
+      "memo": "無断生成の抑止なるか…「声も権利保護の対象」と明記した指針案を公表…生成AI動画で声優や俳優の声や顔が無断で使用されている問題受けて 法務省検討会 au We…",
+      "summaryLines": [
+        "無断生成の抑止なるか…「声も権利保護の対象」と明記した指針案を公表…生成AI動画で声優や俳優の声や顔が無断で使用されている問題受けて 法務省検討会 au Webポータル",
+        "広告、教育、SNS向け動画制作のワークフローに影響します。",
+        "まどかAI観測所では、動画制作のコストと信頼性の変化を見ます。"
+      ]
+    },
+    {
+      "title": "「自分」を使った動画生成もOK、Googleの動画編集ツールがGemini Omniを直接利用可能に - 窓の杜",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wUkMxZk9obUE0Z3R6TDg2UC1YQzQ0V2ZMZ1pfRjVyTTdpd2ZJWkdOQXZHUGltbG9LLWJjTy1qQVREWUlVVDZISU05TXVBcmJ3MUxUd1pEZFk2MFhSSUJGR0w4d2NKRkVr?oc=5",
+      "pubDate": "2026-07-27T09:26:00Z",
+      "source": "Google News: 生成AI",
+      "category": "動画生成AI",
+      "memo": "「自分」を使った動画生成もOK、Googleの動画編集ツールがGemini Omniを直接利用可能に 窓の杜",
+      "summaryLines": [
+        "「自分」を使った動画生成もOK、Googleの動画編集ツールがGemini Omniを直接利用可能に 窓の杜",
+        "広告、教育、SNS向け動画制作のワークフローに影響します。",
+        "まどかAI観測所では、動画制作のコストと信頼性の変化を見ます。"
       ]
     },
     {
@@ -132,77 +288,25 @@
       ]
     },
     {
-      "title": "ドラマ制作で人材不足、AI普及で求人需要が2．8倍に―中国 - Record China",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PRHc3NDVwWm1COEtwYXRIS1o5SmhUNFN6Y2RLbmN0U2hjQXl5ajlzc1ZnODVsYkQwNkJyOXA2NGdvem1SNU5oMWR2c0RSbHF4d3Bfdmp1bFdIa0dWZGhQbVY2UThxU2M?oc=5",
-      "pubDate": "2026-07-27T07:20:02Z",
-      "source": "Google News: 中国 AI",
-      "category": "中国AI",
-      "memo": "ドラマ制作で人材不足、AI普及で求人需要が2．8倍に―中国 Record China",
+      "title": "AIの誤情報・ハルシネーション対策を支援するKeywordmap、新機能「AI回答誤情報診断（β版）」をリリース - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nbnVtZTFqVXVfUldHOU9DekQxVVJoVXBlRGx4TVJrVDhfNTdMY2JvSEJkNFUzSG8wSGktMHlZR3B1bkhnamgyWXAxeTF6VEtOaXA0Z0h0cm42Sm5FR0swZE04ZlV4SGxqVFE?oc=5",
+      "pubDate": "2026-07-27T06:47:28Z",
+      "source": "Google News: 生成AI",
+      "category": "医療AI",
+      "memo": "AIの誤情報・ハルシネーション対策を支援するKeywordmap、新機能「AI回答誤情報診断（β版）」をリリース PR TIMES",
       "summaryLines": [
-        "ドラマ制作で人材不足、AI普及で求人需要が2．8倍に―中国 Record China",
-        "中国企業や政策の動きは、価格競争や技術潮流を見る材料になります。",
-        "まどかAI観測所では、日本や海外市場への影響を見ます。"
+        "AIの誤情報・ハルシネーション対策を支援するKeywordmap、新機能「AI回答誤情報診断（β版）」をリリース PR TIMES",
+        "医療現場での安全性、精度、運用体制に関わる動きです。",
+        "まどかAI観測所では、臨床で本当に使える形になるかを見ます。"
       ]
     },
     {
-      "title": "中国製DDR5メモリの販売価格が判明、メモリは安くなるのか？",
-      "link": "https://gigazine.net/news/20260727-cxmt-dram-price/",
-      "pubDate": "2026-07-27T07:14:00Z",
-      "source": "GIGAZINE",
-      "category": "中国AI",
-      "memo": "中国企業のCXMTはPC用のDDR5メモリを生産しており、複数のメモリモジュールメーカーがCXMT製チップの採用を進めています。新たにCXMT製チップを搭載し…",
-      "summaryLines": [
-        "中国企業のCXMTはPC用のDDR5メモリを生産しており、複数のメモリモジュールメーカーがCXMT製チップの採用を進めています。",
-        "中国企業や政策の動きは、価格競争や技術潮流を見る材料になります。",
-        "まどかAI観測所では、日本や海外市場への影響を見ます。"
-      ]
-    },
-    {
-      "title": "中国の超高性能AIは、世界のテクノロジーリーダーたちの間で意見の対立を生んでいる。 - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ0gtYUV4SlFsVVFBMi00LVhQTTB3bV9QWlRzX3o0TEtXcThhQUp5LXM0VmZUWHhSY2p5R2JfLUxmUzdMMWVORWNwaEFfUkZ4ZUtjQjNQUENqR1R1TUhELXNtRS02TWNHRjhBRGRrQ09mYzk3RjN4a0JieG1QMlY0R2h4WXBkMFFsTW9OUkt6MA?oc=5",
-      "pubDate": "2026-07-27T07:05:31Z",
-      "source": "Google News: 中国 AI",
-      "category": "中国AI",
-      "memo": "中国の超高性能AIは、世界のテクノロジーリーダーたちの間で意見の対立を生んでいる。 Vietnam.vn",
-      "summaryLines": [
-        "中国の超高性能AIは、世界のテクノロジーリーダーたちの間で意見の対立を生んでいる。",
-        "中国企業や政策の動きは、価格競争や技術潮流を見る材料になります。",
-        "まどかAI観測所では、日本や海外市場への影響を見ます。"
-      ]
-    },
-    {
-      "title": "米AI企業が中国発オープンソースのAIで対立 - Anthropicと業界大手は対立、OpenAIは両方を支持 - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOVpUbENJNVNMTUZFc1FCdE40RWM0NVhiNU5VSVB2YlBtMXFvanZuQkZLeHh6S29UaFQ5VElTTTNKb3ZzbkgzeDJxZ1FmR1hLaXRSMUFpanhCNkZQLXFJVDd5QnVSTjY1X1JLMTI0c0JYbDRYYk1iTGJLR2ZHNFJBSUNhWXZRa09lejV4alZuU2VEdjFma3lBV0E5b25hMXA2NnBJVVBTVHpFbG13Q0tOWUhHeE5odnhTNXNhLUc4YThRMnhlWUhlNXpjclfSAXxBVV95cUxQcUdwbFZVSVNXS0E5QlJ6OGU0Ull2WWJPcThtWEl3WDV3d21hS01fdHRyTUJEUWk3Z0NFcEhSalZ2VXNfT3JrM0NzSGN5OEdVckZRSzZXaVJ4bk4wM01rR2tCNHRGTUZQQy1QZTE2UUJ3ZzgyS1VxaU1lUmNO?oc=5",
-      "pubDate": "2026-07-27T07:02:00Z",
-      "source": "Google News: 中国 AI",
-      "category": "中国AI",
-      "memo": "米AI企業が中国発オープンソースのAIで対立 - Anthropicと業界大手は対立、OpenAIは両方を支持 ｄメニューニュース",
-      "summaryLines": [
-        "米AI企業が中国発オープンソースのAIで対立 - Anthropicと業界大手は対立、OpenAIは両方を支持 ｄメニューニュース",
-        "中国企業や政策の動きは、価格競争や技術潮流を見る材料になります。",
-        "まどかAI観測所では、日本や海外市場への影響を見ます。"
-      ]
-    },
-    {
-      "title": "AI株から中国バイオ銘柄に関心シフト－新興国市場の成長テーマで(Bloomberg) - Yahoo!ファイナンス",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcGxVTFFFa1ZCY1hUVWgxMFI3eDJxenJGMDBodmI4ekVESHVTZkRLOVZoaURTNXk5amVwUUh6bUpoY2JWWGV0WXJwQ2d2N3RRc295MUFGcjNxamt5LW91NWdLMUE0X1JMcEQ4SkdCNlZDbVdtTEFMOWlyal9RNGZvUUNNcjVkWjg?oc=5",
-      "pubDate": "2026-07-27T06:09:00Z",
-      "source": "Google News: 中国 AI",
-      "category": "中国AI",
-      "memo": "AI株から中国バイオ銘柄に関心シフト－新興国市場の成長テーマで(Bloomberg) Yahoo!ファイナンス",
-      "summaryLines": [
-        "AI株から中国バイオ銘柄に関心シフト－新興国市場の成長テーマで(Bloomberg) Yahoo!",
-        "中国企業や政策の動きは、価格競争や技術潮流を見る材料になります。",
-        "まどかAI観測所では、日本や海外市場への影響を見ます。"
-      ]
-    },
-    {
-      "title": "ワンキャリア、「クチコミガイドライン」を公開。生成AI時代のキャリア選択を守り、プラットフォームのさらなる信頼性向上へ - イザ！",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkMUFlMzRlSG5TdDZuWjZubDlYbHljZEF5SXBBUXJDTGtJc1dpT0R4YXM5ZjdxUkxOZDJtdDYxSUxITXo3T3pTQy05Mjk2ODNJYjNwejJURVJIQmZPeHBZck9FaDRJNXIzM0JtbEZDdVhmZmdWRTJUNGNB?oc=5",
-      "pubDate": "2026-07-27T06:00:00Z",
+      "title": "ワンキャリア、「クチコミガイドライン」を公開。生成AI時代のキャリア選択を守り、プラットフォームのさらなる信頼性向上へ - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3aVd4Rkh2VERnaVh5M25qanBid1c0MWtnMFp4SC0zX2VzcWVyaE0zdG9TeTgtcGdZMzh2VE8xTHRSVHJ4NDJGX1FJaDdkaWd1TWtpcnQ2czRjQnpkb2NIbjJreXBDTjdoU0E?oc=5",
+      "pubDate": "2026-07-27T06:00:01Z",
       "source": "Google News: 生成AI",
       "category": "AI規制・著作権",
-      "memo": "ワンキャリア、「クチコミガイドライン」を公開。生成AI時代のキャリア選択を守り、プラットフォームのさらなる信頼性向上へ イザ！",
+      "memo": "ワンキャリア、「クチコミガイドライン」を公開。生成AI時代のキャリア選択を守り、プラットフォームのさらなる信頼性向上へ PR TIMES",
       "summaryLines": [
         "ワンキャリア、「クチコミガイドライン」を公開。",
         "AI利用ルールやクリエイター保護の実務に関わる論点です。",
@@ -210,29 +314,16 @@
       ]
     },
     {
-      "title": "中国AI半導体CXMT連動先物が迂回投資先に浮上 - CHOSUNBIZ - Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbWgwWDVqLUlEQ2JLWExlY2FVbXFJZ2VZTEVsTERoTXVPcEdaZ09KMV81YTRwemppQVprYVg1ZXVtVWhQODhvbGVBSm5pT1BEdnotNUVjV1ZPdVA2QzJBWGxIN2otOU44Q2gwRHhJMWNaWVEwaEkxX2NfbmdzVzE0SFlCczY5Qlhi0gGcAUFVX3lxTE5CUUJicld3dnF1S3dMdmN1OHoyZWJzczZDZ0FOV0ZMMFhEZzhUeXJQallQNVhyeDZwY1NLdHNOeXRBS0tJX2hJWjVRbDM2NUZWTnk2cFhEOUFRRFVYMndpckVQVXM0cWdWZDlpVHVlYXNLOEZ4N184dEZ6dWZkdUw0bFNJeE9zdERHYnRRQzVWUTk4cmFVUlpYMHFvTQ?oc=5",
-      "pubDate": "2026-07-27T05:07:00Z",
-      "source": "Google News: 中国 AI",
-      "category": "中国AI",
-      "memo": "中国AI半導体CXMT連動先物が迂回投資先に浮上 - CHOSUNBIZ Chosunbiz",
+      "title": "MedicalCirculator、AIによる心血管疾患診断支援でFukushima Tech Createに採択——福島県浜通り地域などを舞台に事業化目指す - BRIDGE（ブリッジ）",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRFlfTzJKWEdnVDB0Rl9qdi02UUdtdnNWNnRaZVJoZmtPMUdBcm16RDFndGdKTDdiZjlPRy1lcVk5MFpXYzd3Rkw1OWVVVXI5MjNDWUtycjN4d1k2SThVRGxvcHA0VE02VHpzbGZ2eUVXUkZkaGhwWGZ2QzVXMGE4LU9RSXI3eHEySlpaaQ?oc=5",
+      "pubDate": "2026-07-27T04:08:54Z",
+      "source": "Google News: AI",
+      "category": "医療AI",
+      "memo": "MedicalCirculator、AIによる心血管疾患診断支援でFukushima Tech Createに採択——福島県浜通り地域などを舞台に事業化目指す…",
       "summaryLines": [
-        "中国AI半導体CXMT連動先物が迂回投資先に浮上 - CHOSUNBIZ Chosunbiz",
-        "中国企業や政策の動きは、価格競争や技術潮流を見る材料になります。",
-        "まどかAI観測所では、日本や海外市場への影響を見ます。"
-      ]
-    },
-    {
-      "title": "米国で前代未聞のAI暴走事件＝中国ネットでは皮肉の一方、「笑い事ではない」との声も - Record China",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lSEx2RVpha2hNcGlBUEJ5WFYzbGViOTlrV2FZTEU5cVVKSnJON1lUVFdYclNNVGFiQmp5cllKc0Y5ZHM0aFdRakFfcEtnV2E1amU3VkNVYmxSdzNmRUJ0ODh0OHdfMmM?oc=5",
-      "pubDate": "2026-07-27T04:00:02Z",
-      "source": "Google News: 中国 AI",
-      "category": "中国AI",
-      "memo": "米国で前代未聞のAI暴走事件＝中国ネットでは皮肉の一方、「笑い事ではない」との声も Record China",
-      "summaryLines": [
-        "米国で前代未聞のAI暴走事件＝中国ネットでは皮肉の一方、「笑い事ではない」との声も Record China",
-        "中国企業や政策の動きは、価格競争や技術潮流を見る材料になります。",
-        "まどかAI観測所では、日本や海外市場への影響を見ます。"
+        "MedicalCirculator、AIによる心血管疾患診断支援でFukushima Tech Createに採択——福島県浜通り地域などを舞台に事業化目指す BRIDGE（ブリッジ）",
+        "医療現場での安全性、精度、運用体制に関わる動きです。",
+        "まどかAI観測所では、臨床で本当に使える形になるかを見ます。"
       ]
     },
     {
@@ -288,6 +379,19 @@
       ]
     },
     {
+      "title": "AIで胃がん発見率3倍に - MEDIFAX web",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45YTRMVDhvdktZLUs1eEQxZnpDYlYxbnM4T3ZCQ1Z5TElxZldrRGhreVZENVFfRzl3WnRGbldpTERZQ2taNTRfM9IBTkFVX3lxTE0zb2tMX2tIT05vSjYzaGpEQW5idHZRYlUzeXVYTkZRU3lCX3hwY2NKZmVsWVotcGFhd2hqbVp3eEJxbmRzNXNxV3kza180dw?oc=5",
+      "pubDate": "2026-07-27T01:36:00Z",
+      "source": "Google News: 医療AI",
+      "category": "医療AI",
+      "memo": "AIで胃がん発見率3倍に MEDIFAX web",
+      "summaryLines": [
+        "AIで胃がん発見率3倍に MEDIFAX web",
+        "医療現場での安全性、精度、運用体制に関わる動きです。",
+        "まどかAI観測所では、臨床で本当に使える形になるかを見ます。"
+      ]
+    },
+    {
       "title": "スマートグラス×AIで介護現場DXを推進 BS Code取締役 歌川 英之 氏が日本介護経営学会 AI分科会に登壇 - zakⅡ",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hMlIwMmlWTmlfM3FrelBRTWh0dmJGWGpPQW1OUUN2ZjlVYjlfdVM0aTBjV3RkeC1MMmtqaXlwWVlKN0RVNWF4VTJBVFVsb01lb2YzLVVsZ3VCQ09UcWFUdkZOYU1GcWtUNUpnaElGQjVWZXktTFBqTHg1LXVXUQ?oc=5",
       "pubDate": "2026-07-27T01:30:00Z",
@@ -298,6 +402,19 @@
         "スマートグラス×AIで介護現場DXを推進 BS Code取締役 歌川 英之 氏が日本介護経営学会 AI分科会に登壇 zakⅡ",
         "医療現場での安全性、精度、運用体制に関わる動きです。",
         "まどかAI観測所では、臨床で本当に使える形になるかを見ます。"
+      ]
+    },
+    {
+      "title": "自分の顔が『ビックリマン』に。生成AIで「オリジナルグッズ」が作れるサービスが登場、名刺やTシャツ・キーホルダーも作れる - 神戸ジャーナル",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxSmdVY2dubTlMSmdsNkhjOUV1aUlTM2oxczZQVVQzVW1uaEs1Rl9Cci1qcTZVdThnSk9ocXZFaU9yUWZKVm5JSzlsU0tKX1otWHlTQXIzbjlsYkhDRXc?oc=5",
+      "pubDate": "2026-07-27T01:00:38Z",
+      "source": "Google News: 画像生成AI",
+      "category": "画像生成AI",
+      "memo": "自分の顔が『ビックリマン』に。生成AIで「オリジナルグッズ」が作れるサービスが登場、名刺やTシャツ・キーホルダーも作れる 神戸ジャーナル",
+      "summaryLines": [
+        "自分の顔が『ビックリマン』に。",
+        "制作現場の効率化と、権利・品質管理の両方に関わります。",
+        "まどかAI観測所では、制作工程と著作権対応の変化を見ます。"
       ]
     },
     {
@@ -327,42 +444,16 @@
       ]
     },
     {
-      "title": "株式会社Mavericksは、動画生成AI「NoLang」の動画編集画面に、既存画像をAIで編集できる新機能「AI画像編集」を追加。画像単体のダウンロード解禁とクレジット消費半減も実施 - Excite エキサイト",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9taHRVd0k4MG55T1VWZmVod0g0bEJmWXRQbkxKejJmdXY0ZTdZNTVMQjlDQk1pbVdNNHJYSHF4U0xEOUo5V2tvTEtsNW5aUDhGazJXYldmUEhZQ3ZvTjRjdWc2VWNCZndWd1prd3dDNDAzZlhOOUE?oc=5",
-      "pubDate": "2026-07-27T00:15:00Z",
+      "title": "【新サービス】アパレルECの画像制作を標準化するAIモデル生成サービス「AIfitte」を提供開始 - 毎日キレイ",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xOVUwOUlzcWE3SUFIZG9OTjJrR2dpS3BpaGZNN0RiU0E3c09LbjdTV0ZjT3BaTHB6SnBIM1kyY05QbFJUSmN6bE40RFhDenJZQ3FEVDZXT2M4TWRJVGJNUVZtM2VyREVwRGxjVC10WDZFLXRiUzBqRm5R?oc=5",
+      "pubDate": "2026-07-27T00:34:18Z",
       "source": "Google News: 画像生成AI",
-      "category": "動画生成AI",
-      "memo": "株式会社Mavericksは、動画生成AI「NoLang」の動画編集画面に、既存画像をAIで編集できる新機能「AI画像編集」を追加。画像単体のダウンロード解禁…",
+      "category": "画像生成AI",
+      "memo": "【新サービス】アパレルECの画像制作を標準化するAIモデル生成サービス「AIfitte」を提供開始 毎日キレイ",
       "summaryLines": [
-        "株式会社Mavericksは、動画生成AI「NoLang」の動画編集画面に、既存画像をAIで編集できる新機能「AI画像編集」を追加。",
-        "広告、教育、SNS向け動画制作のワークフローに影響します。",
-        "まどかAI観測所では、動画制作のコストと信頼性の変化を見ます。"
-      ]
-    },
-    {
-      "title": "(Wearable Device Market) ウェアラブルデバイス市場、2035年までに5兆9791億米ドル規模へ拡大予測｜年平均成長率（CAGR）18.7％を支えるAIヘルスケア・遠隔医療・スマートウェアラブル技術の進化 - アットプレス",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqZS1EbGVYdFhlQ1FuUE1xWmhyeGpYVVZ1Q1V3NW9FQWNDZmRsa3N4dHRyREJxSG9yWHdEdkR5SnA1UUZrSmk3aDVfRENUVkU?oc=5",
-      "pubDate": "2026-07-26T23:30:00Z",
-      "source": "Google News: 医療AI",
-      "category": "医療AI",
-      "memo": "(Wearable Device Market) ウェアラブルデバイス市場、2035年までに5兆9791億米ドル規模へ拡大予測｜年平均成長率（CAGR）18.…",
-      "summaryLines": [
-        "(Wearable Device Market) ウェアラブルデバイス市場、2035年までに5兆9791億米ドル規模へ拡大予測｜年平均成長率（CAGR）18.",
-        "医療現場での安全性、精度、運用体制に関わる動きです。",
-        "まどかAI観測所では、臨床で本当に使える形になるかを見ます。"
-      ]
-    },
-    {
-      "title": "韓国の病院が研究支援AI「AMIST」開発…論文検索を1.6秒に短縮 - KOREA WAVE",
-      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPTTktamtZME96bDBJXzNQNk9ZZHN3a2JjNmx3djBnVlRUN1dQd0JYbktUYmJMVjhlQ0phTGU5SC0yUnNsbWdOOUo2dWhxSXlmdWx0NlR0RHdYZGFZaEowdG1qSXp4OVpKZUtNTWg3T21TNmFRUFRjMm5PN2ZUTXduRWFQQW5wbVdvSC1NS05pb0sxeWlKV1I2ZFpGNU5KOTdmNk5hNVFVRm1HSXdsczhyTGxLcEJrVnlyN3lGLWI0a1poWlo0Tk5RX3o1WjlxekpaZzNrMUNWNUVZNmYzcXlKT2J6LXc1ckNsS2ExMG5pdVFKS3A2dzFYTmYxVVRPV3hfTEV1TXRPOVFrVlI1OUVSZE04QmpmdVZjNV9VQlNCZHF4VUpTZkJ5YkxsTzBFLVFFbjJGRm5FQQ?oc=5",
-      "pubDate": "2026-07-26T21:20:09Z",
-      "source": "Google News: 医療AI",
-      "category": "医療AI",
-      "memo": "韓国の病院が研究支援AI「AMIST」開発…論文検索を1.6秒に短縮 KOREA WAVE",
-      "summaryLines": [
-        "韓国の病院が研究支援AI「AMIST」開発…論文検索を1.",
-        "医療現場での安全性、精度、運用体制に関わる動きです。",
-        "まどかAI観測所では、臨床で本当に使える形になるかを見ます。"
+        "【新サービス】アパレルECの画像制作を標準化するAIモデル生成サービス「AIfitte」を提供開始 毎日キレイ",
+        "制作現場の効率化と、権利・品質管理の両方に関わります。",
+        "まどかAI観測所では、制作工程と著作権対応の変化を見ます。"
       ]
     },
     {
@@ -376,32 +467,6 @@
         "DivXやXvidで使われる動画圧縮規格「MPEG-4 Visual(MPEG-4 Part 2)」について、特許の管理とライセンス提供を行うVia Licensing Allian…",
         "AI利用ルールやクリエイター保護の実務に関わる論点です。",
         "まどかAI観測所では、実務で何を変える必要があるかを見ます。"
-      ]
-    },
-    {
-      "title": "「ICML」が韓国で開催、参加者・論文数は倍増 医療とロボティクスに脚光 - 日経クロステック",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBacktISnFOcC1uQ0hTTzhjT0xwdVZ2QUhkdlBkNFgyZE5IbnR1VXJGWG1MUWZGcW5QUjRIbmo3b1NzelJ2cWlUN2lIbm9JQ2hBcFdtc2NZZUhwRjFud1IwS2ctRUhQdXBOZVdldA?oc=5",
-      "pubDate": "2026-07-26T20:00:00Z",
-      "source": "Google News: 医療AI",
-      "category": "医療AI",
-      "memo": "「ICML」が韓国で開催、参加者・論文数は倍増 医療とロボティクスに脚光 日経クロステック",
-      "summaryLines": [
-        "「ICML」が韓国で開催、参加者・論文数は倍増 医療とロボティクスに脚光 日経クロステック",
-        "医療現場での安全性、精度、運用体制に関わる動きです。",
-        "まどかAI観測所では、臨床で本当に使える形になるかを見ます。"
-      ]
-    },
-    {
-      "title": "ブラックペアン シーズン２ 2024年放送 第４話 天才医師VS医療AI｜ドラマ｜見逃し無料配信はTVer！人気の動画見放題 - TVer",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UZVFTRGpWMFJTa0dicTJKRVNwb0Jwc0lCRUpkalhHNlQ0VmFIODA0UlhoNU8wU004ejdrbjhYbFNPWFZBcnRISG5DNA?oc=5",
-      "pubDate": "2026-07-26T15:21:19Z",
-      "source": "Google News: 医療AI",
-      "category": "医療AI",
-      "memo": "ブラックペアン シーズン２ 2024年放送 第４話 天才医師VS医療AI｜ドラマ｜見逃し無料配信はTVer！人気の動画見放題 TVer",
-      "summaryLines": [
-        "ブラックペアン シーズン２ 2024年放送 第４話 天才医師VS医療AI｜ドラマ｜見逃し無料配信はTVer！",
-        "医療現場での安全性、精度、運用体制に関わる動きです。",
-        "まどかAI観測所では、臨床で本当に使える形になるかを見ます。"
       ]
     },
     {
@@ -496,32 +561,6 @@
       ]
     },
     {
-      "title": "著作権料を「回避」するためにAI音楽を利用する傾向について、弁護士たちはどのように考えているのでしょうか？ - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdU5Hamw4QnNDS0FWQ25fWkVGaXlxUTdRQXVFZlZzSk55eDBqUkFHTFRxVEN5b0Q3MW5IVGVITHhTX05uTDBoWE0zd0J0SUNaZWx4WlplSW5mblQ4MUtDV3VuWnpoMUlZX2EweGVXSFVpanNmSl9YMFR5SS1hMzExdHJDYVM4WC15ZWM2VTE0YzFUZw?oc=5",
-      "pubDate": "2026-07-25T07:41:03Z",
-      "source": "Google News: AI 著作権",
-      "category": "AI規制・著作権",
-      "memo": "著作権料を「回避」するためにAI音楽を利用する傾向について、弁護士たちはどのように考えているのでしょうか？ Vietnam.vn",
-      "summaryLines": [
-        "著作権料を「回避」するためにAI音楽を利用する傾向について、弁護士たちはどのように考えているのでしょうか？",
-        "AI利用ルールやクリエイター保護の実務に関わる論点です。",
-        "まどかAI観測所では、実務で何を変える必要があるかを見ます。"
-      ]
-    },
-    {
-      "title": "AIとの対話で授業を復習、児童83％が理科学習に役立つと回答（こどもとIT） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oeTZkd09GMXRYeHJxTGZXT2hZTEx4S0Zud0hYMU5oZG9fOW1OaXowaWxDRVNBU1dZb2JfbHRGS3UxNGVvUFFNWHNBNFRKa095bm9VdUNzZFVYX0txb1RDRWVmT01CbkdVWkNwdWc1MUJzNEdaXzNTMXNrTnVhNE0?oc=5",
-      "pubDate": "2026-07-25T07:00:00Z",
-      "source": "Google News: 画像生成AI",
-      "category": "画像生成AI",
-      "memo": "AIとの対話で授業を復習、児童83％が理科学習に役立つと回答（こどもとIT） Yahoo!ニュース",
-      "summaryLines": [
-        "AIとの対話で授業を復習、児童83％が理科学習に役立つと回答（こどもとIT） Yahoo!",
-        "制作現場の効率化と、権利・品質管理の両方に関わります。",
-        "まどかAI観測所では、制作工程と著作権対応の変化を見ます。"
-      ]
-    },
-    {
       "title": "Midjourney bought the astrology app Co-Star",
       "link": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
       "pubDate": "2026-07-24T19:06:58Z",
@@ -561,32 +600,6 @@
       ]
     },
     {
-      "title": "Meta、画像生成モデル「Muse Image」をMeta AIに搭載。文脈を理解し高度な写真編集やデザインに対応 - AIsmiley",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCdW1QMUxIZ0xWMUdXOFFVOUNSTm1YUDU2eUNLcVN6V0NrVlRDYVk3bERrUHNwMnNyZDMwRnZxMjFwMUZhZ1BLd3JZakhXX0tWVUgtRTY1eVlhR2VCTkJz?oc=5",
-      "pubDate": "2026-07-24T07:01:48Z",
-      "source": "Google News: 画像生成AI",
-      "category": "画像生成AI",
-      "memo": "Meta、画像生成モデル「Muse Image」をMeta AIに搭載。文脈を理解し高度な写真編集やデザインに対応 AIsmiley",
-      "summaryLines": [
-        "Meta、画像生成モデル「Muse Image」をMeta AIに搭載。",
-        "制作現場の効率化と、権利・品質管理の両方に関わります。",
-        "まどかAI観測所では、制作工程と著作権対応の変化を見ます。"
-      ]
-    },
-    {
-      "title": "画像・動画・音声の生成AIモデルを条件に合わせて自動で選ぶ「Runway Media Router」が登場 - GIGAZINE",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqd2NPWGZPMXZHMy1NblBTUGhfTUtPbW9hVWw3Q081elhuVWVQNkpFc1NRVDFVWEl5WHduQnd6U3RpeFlaeFFmamZTWXdudkdkalVyeVphTDEtUXJXbDIyaXBSYVJFUQ?oc=5",
-      "pubDate": "2026-07-24T03:48:00Z",
-      "source": "Google News: 画像生成AI",
-      "category": "動画生成AI",
-      "memo": "画像・動画・音声の生成AIモデルを条件に合わせて自動で選ぶ「Runway Media Router」が登場 GIGAZINE",
-      "summaryLines": [
-        "画像・動画・音声の生成AIモデルを条件に合わせて自動で選ぶ「Runway Media Router」が登場 GIGAZINE",
-        "広告、教育、SNS向け動画制作のワークフローに影響します。",
-        "まどかAI観測所では、動画制作のコストと信頼性の変化を見ます。"
-      ]
-    },
-    {
       "title": "Instagram、他人の公開写真からAI動画を自動生成する機能を無効化 フィードバック受け - ITmedia",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KMkp0UWttNDRQZHBDUnp4dVNTdVRQVHp1Q2NKRGs0SU1uVDhpZzZuM3o5NU01Q0dKU01wYmY2RzFBUzlPOEJBQXhCc0ZzSWQzenlSRi1zVzV2SU1VMVk2Y0tJeGNCMmRTcWt5VA?oc=5",
       "pubDate": "2026-07-13T07:00:00Z",
@@ -608,19 +621,6 @@
       "memo": "生成AI動画や画像で有名人の顔や声を無断使用 2カ月で4万件超 損失45億円も（テレビ朝日系（ANN）） Yahoo!ニュース",
       "summaryLines": [
         "生成AI動画や画像で有名人の顔や声を無断使用 2カ月で4万件超 損失45億円も（テレビ朝日系（ANN）） Yahoo!",
-        "広告、教育、SNS向け動画制作のワークフローに影響します。",
-        "まどかAI観測所では、動画制作のコストと信頼性の変化を見ます。"
-      ]
-    },
-    {
-      "title": "Meta、初のエージェント型画像生成AI「Muse Image」公開 動画生成AI「Muse Video」もプレビュー - ITmedia",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyLUZUdkFncjY0Nm9tRkVPSV83OWVDUzBEaU9VNEZIVjVNVmgzbFpHOTJhU0E5a3Y1b2pBSWFXSHFOUlZ3VlAtd0VhNUU5VUhyb1lxYlFtSHN4U3J4Y1lpSGVmdFpBdGNxM0lOLQ?oc=5",
-      "pubDate": "2026-07-08T07:00:00Z",
-      "source": "Google News: 画像生成AI",
-      "category": "動画生成AI",
-      "memo": "Meta、初のエージェント型画像生成AI「Muse Image」公開 動画生成AI「Muse Video」もプレビュー ITmedia",
-      "summaryLines": [
-        "Meta、初のエージェント型画像生成AI「Muse Image」公開 動画生成AI「Muse Video」もプレビュー ITmedia",
         "広告、教育、SNS向け動画制作のワークフローに影響します。",
         "まどかAI観測所では、動画制作のコストと信頼性の変化を見ます。"
       ]
