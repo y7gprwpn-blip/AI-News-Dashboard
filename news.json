@@ -1,73 +1,216 @@
 {
-  "updated": "2026-09-23T10:29:01.569917Z",
+  "updated": "2026-09-23T15:47:41.010737Z",
   "items": [
     {
-      "title": "日立がAIで鉄道運行支援を本格化、NVIDIAと連携 車両や設備から得られるデータをAIで分析｜Seizo Trend - ビジネス+IT",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sN3lpaGlQdlFyLW05TnpDVTU4UHhad0YzcFFaVi0tdEF1dGMxQ05Yb0VpMG9zQU9nYUpBN3YwLWJoRDh1OHhnUmtkNUFxbjg?oc=5",
-      "pubDate": "2026-09-23T10:19:31Z",
+      "title": "YouTube’s conversational video editing tool lets creators make edits in natural language",
+      "link": "https://techcrunch.com/2026/09/23/youtubes-conversational-video-editing-tool-lets-creators-make-edits-in-natural-language/",
+      "pubDate": "2026-09-23T15:46:57Z",
+      "source": "TechCrunch",
+      "category": "AI全般",
+      "memo": "Creators will be able to use AI in a conversational chat interface to help them…",
+      "summaryLines": [
+        "Creators will be able to use AI in a conversational chat interface to help them edit videos.",
+        "AIの使われ方や競争環境が変わる可能性があります。",
+        "まどかAI観測所では、どの仕事や生活シーンに広がるかを見ます。"
+      ]
+    },
+    {
+      "title": "AIブームの光と影、富豪続出の裏でテック業界「かつての主役」に失業の波 - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRTdVeXJadG5URW42aVNlWjFFVnkwX2I3UmlBUkw2bThXcmNHNFFTUWs0dFkxbW9RNnY4TUxYUzJCb2ZUWFE0RDRfQzRObkpOVUN6ZVk5Z29CTEU3WDdBQWRBRGRjTVVydUZFSjh1Y2NKM0VrTS1wckxWeE1FWmhTVzdON18yUkFkc3BMb0FB?oc=5",
+      "pubDate": "2026-09-23T15:35:05Z",
       "source": "Google News: AI",
       "category": "AI全般",
-      "memo": "日立がAIで鉄道運行支援を本格化、NVIDIAと連携 車両や設備から得られるデータをAIで分析｜Seizo Trend ビジネス+IT",
+      "memo": "AIブームの光と影、富豪続出の裏でテック業界「かつての主役」に失業の波 Bloomberg",
       "summaryLines": [
-        "日立がAIで鉄道運行支援を本格化、NVIDIAと連携 車両や設備から得られるデータをAIで分析｜Seizo Trend ビジネス+IT",
+        "AIブームの光と影、富豪続出の裏でテック業界「かつての主役」に失業の波 Bloomberg",
         "AIの使われ方や競争環境が変わる可能性があります。",
         "まどかAI観測所では、どの仕事や生活シーンに広がるかを見ます。"
       ]
     },
     {
-      "title": "【生成ＡＩ競争激化】アンソロピックとＯｐｅｎＡＩが同日新モデル発表、高性能ＡＩの低価格化で企業利用拡大へ - kabu-ir.com",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82a2FyQkpKbjNGMVRUZENVc1hvaDlqNkRGUkNFQzJ5N2dqODRLX3RNdnlNTzZWeW9tUVFoQ2hWQWNmVll2M2RVN1pLWnBhVkZ4ek10cA?oc=5",
-      "pubDate": "2026-09-23T10:00:00Z",
-      "source": "Google News: 生成AI",
-      "category": "AI全般",
-      "memo": "【生成ＡＩ競争激化】アンソロピックとＯｐｅｎＡＩが同日新モデル発表、高性能ＡＩの低価格化で企業利用拡大へ kabu-ir.com",
-      "summaryLines": [
-        "【生成ＡＩ競争激化】アンソロピックとＯｐｅｎＡＩが同日新モデル発表、高性能ＡＩの低価格化で企業利用拡大へ kabu-ir.",
-        "AIの使われ方や競争環境が変わる可能性があります。",
-        "まどかAI観測所では、どの仕事や生活シーンに広がるかを見ます。"
-      ]
-    },
-    {
-      "title": "本業は水質検査機関勤務 生成AI駆使し未経験でゲーム開発 イオンモール豊川で体験型サイネージ「東三河大収穫祭」放映中 - 東愛知新聞社",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GamN0Q2lmcjhiTXN2TzZKX1pxdnhMNmRFZnhiZXVnUmQtRVVyYS1xRlNWeEY1bGRBWWItOGdqUzZzcnQxOEpHc2xIem85STFMLUROa1dRQ1UxZzFO?oc=5",
-      "pubDate": "2026-09-23T09:50:04Z",
-      "source": "Google News: 生成AI",
-      "category": "AI全般",
-      "memo": "本業は水質検査機関勤務 生成AI駆使し未経験でゲーム開発 イオンモール豊川で体験型サイネージ「東三河大収穫祭」放映中 東愛知新聞社",
-      "summaryLines": [
-        "本業は水質検査機関勤務 生成AI駆使し未経験でゲーム開発 イオンモール豊川で体験型サイネージ「東三河大収穫祭」放映中 東愛知新聞社",
-        "AIの使われ方や競争環境が変わる可能性があります。",
-        "まどかAI観測所では、どの仕事や生活シーンに広がるかを見ます。"
-      ]
-    },
-    {
-      "title": "音楽生成AI「Suno」、長期ユーザーから不満噴出 ライセンス取得済み新モデル巡り - 音楽業界総合情報サイト",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qSVZJNDVDMnl3bnhoOW5UcW5uamxjUWVVS1Jrc2w0bnFtM1JBUmFvYW1VMy1yTFZOWXdfUjFYdS1COFc4ekdMejR5VHcwdFlhTnhWeA?oc=5",
-      "pubDate": "2026-09-23T09:49:34Z",
-      "source": "Google News: 生成AI",
-      "category": "AI全般",
-      "memo": "音楽生成AI「Suno」、長期ユーザーから不満噴出 ライセンス取得済み新モデル巡り 音楽業界総合情報サイト",
-      "summaryLines": [
-        "音楽生成AI「Suno」、長期ユーザーから不満噴出 ライセンス取得済み新モデル巡り 音楽業界総合情報サイト",
-        "AIの使われ方や競争環境が変わる可能性があります。",
-        "まどかAI観測所では、どの仕事や生活シーンに広がるかを見ます。"
-      ]
-    },
-    {
-      "title": "プレイリスト・マーケのSubmitHub、AI音楽の投稿禁止 「これ以上ノイズ必要ない」 - 音楽業界総合情報サイト",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDWFIxY3BlYTlqcEZrbzdyOVBTTElWdjFqNWlVTjVUYndTUzNyTENpcUQtZHFaX192R284SS0waHBoNWlNdmNaVGJ2NFhOcnRtdWFaVg?oc=5",
-      "pubDate": "2026-09-23T09:44:48Z",
+      "title": "モモオ AI - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiX253dmZiVVlYMzlfMHFLSThTeG01WElORGZ1OFo4Zkp3R1NycWhkRHp1WmNKZ2dBUEZISWZRLTNrclFDQUlqdGxwLTF5b1kxelFadXNVUGtwVzRTUnh1ZGg2V3ZpbkhFajJZemt0bmpzY0d1?oc=5",
+      "pubDate": "2026-09-23T15:26:34Z",
       "source": "Google News: AI",
       "category": "AI全般",
-      "memo": "プレイリスト・マーケのSubmitHub、AI音楽の投稿禁止 「これ以上ノイズ必要ない」 音楽業界総合情報サイト",
+      "memo": "モモオ AI Moomoo",
       "summaryLines": [
-        "プレイリスト・マーケのSubmitHub、AI音楽の投稿禁止 「これ以上ノイズ必要ない」 音楽業界総合情報サイト",
+        "モモオ AI Moomoo",
         "AIの使われ方や競争環境が変わる可能性があります。",
         "まどかAI観測所では、どの仕事や生活シーンに広がるかを見ます。"
       ]
     },
     {
-      "title": "AI画像編集ソフト「HitPaw FotorPea」がVer.5.7.0へアップデート！GPT Image 2.5による「画像から画像」に対応、AI再構図・美肌・4K出力などを新搭載 - prtimes.jp",
+      "title": "【報ステ】被害者「老後資金1億円が…」AI駆使し“成りすまし通話”特殊詐欺の手口（テレビ朝日系（ANN）） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGRWJ4VG9DUHppWUNTZ0hnMDFyeThVbTkxTXZZaElaQzEwX3ltMFB6ZFN6UHJqWmpiWmltTWcwZjhmTEowWjlTSDNSdThLQkdaQW0xYUFOUVhIbXBLSVRacFdVWjdRajJoM1JqTFdhcWRFV1MybmwtMm9GeGFZMms?oc=5",
+      "pubDate": "2026-09-23T15:24:16Z",
+      "source": "Google News: AI",
+      "category": "AI全般",
+      "memo": "【報ステ】被害者「老後資金1億円が…」AI駆使し“成りすまし通話”特殊詐欺の手口（テレビ朝日系（ANN）） Yahoo!ニュース",
+      "summaryLines": [
+        "【報ステ】被害者「老後資金1億円が…」AI駆使し“成りすまし通話”特殊詐欺の手口（テレビ朝日系（ANN）） Yahoo!",
+        "AIの使われ方や競争環境が変わる可能性があります。",
+        "まどかAI観測所では、どの仕事や生活シーンに広がるかを見ます。"
+      ]
+    },
+    {
+      "title": "YouTube Music gets more conversational with new AI features",
+      "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+      "pubDate": "2026-09-23T15:19:30Z",
+      "source": "TechCrunch",
+      "category": "AI全般",
+      "memo": "YouTube is adding new AI-powered features to YouTube Music that aim to make it…",
+      "summaryLines": [
+        "YouTube is adding new AI-powered features to YouTube Music that aim to make it easier for l…",
+        "AIの使われ方や競争環境が変わる可能性があります。",
+        "まどかAI観測所では、どの仕事や生活シーンに広がるかを見ます。"
+      ]
+    },
+    {
+      "title": "Claudeに丸投げしていた中国AI企業に当局がメスなど 日刊出版ニュースまとめ 2026.09.24 - HON.jp",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5jU25mcHEzVURsT1UzVlhfcXRhSU9WY011QTE1VlVCdjJMY2lFSVFhSlFkdXNVRnRkckxoSzBGdENqRlptUkE?oc=5",
+      "pubDate": "2026-09-23T15:05:39Z",
+      "source": "Google News: 中国 AI",
+      "category": "中国AI",
+      "memo": "Claudeに丸投げしていた中国AI企業に当局がメスなど 日刊出版ニュースまとめ 2026.09.24 HON.jp",
+      "summaryLines": [
+        "Claudeに丸投げしていた中国AI企業に当局がメスなど 日刊出版ニュースまとめ 2026.",
+        "中国企業や政策の動きは、価格競争や技術潮流を見る材料になります。",
+        "まどかAI観測所では、日本や海外市場への影響を見ます。"
+      ]
+    },
+    {
+      "title": "米Metaが個人向けAIエージェント投入 障壁はデータ商売で蓄積した不信感 - 日経クロストレンド",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb2N1X0pxWnRYb2RnbWhBVXhFckUtd1FWUGxac2xQNWxVakFHNm9hM0FLekthVU1NV0ZSOTY0WlF3SXZSMjVRUDlpRUNiNG9qZEFaeU9wRFpGS2UyaFJXcXVqRnVpalhaSUhrTmFsSGNfazBtSkNMNHhhWWlPU2ZTZHVWR1dUOXZUbWtZ?oc=5",
+      "pubDate": "2026-09-23T15:00:00Z",
+      "source": "Google News: AI",
+      "category": "AI全般",
+      "memo": "米Metaが個人向けAIエージェント投入 障壁はデータ商売で蓄積した不信感 日経クロストレンド",
+      "summaryLines": [
+        "米Metaが個人向けAIエージェント投入 障壁はデータ商売で蓄積した不信感 日経クロストレンド",
+        "AIの使われ方や競争環境が変わる可能性があります。",
+        "まどかAI観測所では、どの仕事や生活シーンに広がるかを見ます。"
+      ]
+    },
+    {
+      "title": "AI本番活用の最大のカギは、AIモデルやGPUの性能ではない - active.nikkeibp.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdzZWODhIVzJDVXJISktDSDZRQk1Wc1JRVG9xRGN2WFQ4VmFKLUxWQy1BWmF6eEphZ2JsMWdrdkZxUlk3Sy15MmsxREtkb1BVcm5Db0JDYU83bXR0TU1xRUVDc1RfNVp6bUExeTE0V0FjUFB1QlJjcHJsYjVqX25uZFU5Q0dNR0pWNngxeUR4QVFPdXR6UUNn?oc=5",
+      "pubDate": "2026-09-23T15:00:00Z",
+      "source": "Google News: AI",
+      "category": "AI全般",
+      "memo": "AI本番活用の最大のカギは、AIモデルやGPUの性能ではない active.nikkeibp.co.jp",
+      "summaryLines": [
+        "AI本番活用の最大のカギは、AIモデルやGPUの性能ではない active.",
+        "AIの使われ方や競争環境が変わる可能性があります。",
+        "まどかAI観測所では、どの仕事や生活シーンに広がるかを見ます。"
+      ]
+    },
+    {
+      "title": "10年後、マーケティング部はあるか？ AI時代に生き残るには - 日経クロストレンド",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMXlKTGlRaGJYWEwxUXZiRTZ6cFB0a1JwNmt1SWJkM05uQWNsZ3B0QlZZU05HQzgtTHBVQU5Kd0x1RWRGTjVjdzlOWWltS2E1cUJJZmQ3cjF1X1FnclF0clNqQ1Z1LWMtVWs0YTdhZVNjLXhhZVJfUC1WbWxLSUpvaVVUUFNZeVBxRTJZ?oc=5",
+      "pubDate": "2026-09-23T15:00:00Z",
+      "source": "Google News: AI",
+      "category": "AI全般",
+      "memo": "10年後、マーケティング部はあるか？ AI時代に生き残るには 日経クロストレンド",
+      "summaryLines": [
+        "10年後、マーケティング部はあるか？",
+        "AIの使われ方や競争環境が変わる可能性があります。",
+        "まどかAI観測所では、どの仕事や生活シーンに広がるかを見ます。"
+      ]
+    },
+    {
+      "title": "中国国旗 - 中国当局、AI企業調査か 米企業に機密流出疑い - 写真・画像(1/1) - 西日本新聞me",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1nZGhqSU1xdTFHSUJRNWNUbGN1c2pmRXdGTThvaWFOY2F3dnhuaHo5aUdFc3RqbDRwU2JRUzhiWnE3NHh0LTFmWkVsLVdtTmtHRTdoVnM0Yw?oc=5",
+      "pubDate": "2026-09-23T12:18:11Z",
+      "source": "Google News: 中国 AI",
+      "category": "中国AI",
+      "memo": "中国国旗 - 中国当局、AI企業調査か 米企業に機密流出疑い - 写真・画像(1/1) 西日本新聞me",
+      "summaryLines": [
+        "中国国旗 - 中国当局、AI企業調査か 米企業に機密流出疑い - 写真・画像(1/1) 西日本新聞me",
+        "中国企業や政策の動きは、価格競争や技術潮流を見る材料になります。",
+        "まどかAI観測所では、日本や海外市場への影響を見ます。"
+      ]
+    },
+    {
+      "title": "中国当局、ＡＩ企業調査か - 下野新聞社",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56aUI2UG5nakNWZ3l6T2ZGSlJwUEJZZlBxSmE4R3J5aUMzLUJiWjdRdXBGZkRFc01ySnN3eE01a0prMEVwRUpGQW95ZnQxc1hUSXh0RFRGZ0ItT3c?oc=5",
+      "pubDate": "2026-09-23T12:04:39Z",
+      "source": "Google News: 中国 AI",
+      "category": "中国AI",
+      "memo": "中国当局、ＡＩ企業調査か 下野新聞社",
+      "summaryLines": [
+        "中国当局、ＡＩ企業調査か 下野新聞社",
+        "中国企業や政策の動きは、価格競争や技術潮流を見る材料になります。",
+        "まどかAI観測所では、日本や海外市場への影響を見ます。"
+      ]
+    },
+    {
+      "title": "中国当局、ＡＩ企業調査か - デイリースポーツ",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xWlZtT1hxSFZXNGtMZnl5aXBYNy10TW9ydmxzRUVUTGZnRzZaejBVSFY4czFDeU43SHhPRWgwXzhoRERyYVBJeDNHcmJBZWtzRUZJMnFqYTh4bmprQ2VYWmRjdHhhNE8tRUZCNDRFaHViZjRpT3ZRWg?oc=5",
+      "pubDate": "2026-09-23T12:00:00Z",
+      "source": "Google News: 中国 AI",
+      "category": "中国AI",
+      "memo": "中国当局、ＡＩ企業調査か デイリースポーツ",
+      "summaryLines": [
+        "中国当局、ＡＩ企業調査か デイリースポーツ",
+        "中国企業や政策の動きは、価格競争や技術潮流を見る材料になります。",
+        "まどかAI観測所では、日本や海外市場への影響を見ます。"
+      ]
+    },
+    {
+      "title": "中国当局、AI企業調査か 米企業に機密流出疑い（共同通信） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xcG0ta2tycnU3U1RiYWdPWHFuYkFtdzE1QTVmSHlhUjJfV1hGZVhTOE1qb2xLVV9uT1g4TzBkUHp6aWdzRU1vNFNzWkNRZ0xMQkJsbnRIR1dRcF9sUGlpVl9UdW1IYWJaT0tnTTV5WnF5S1BqMV84NzFCOU91UzQ?oc=5",
+      "pubDate": "2026-09-23T11:56:08Z",
+      "source": "Google News: AI",
+      "category": "中国AI",
+      "memo": "中国当局、AI企業調査か 米企業に機密流出疑い（共同通信） Yahoo!ニュース",
+      "summaryLines": [
+        "中国当局、AI企業調査か 米企業に機密流出疑い（共同通信） Yahoo!",
+        "中国企業や政策の動きは、価格競争や技術潮流を見る材料になります。",
+        "まどかAI観測所では、日本や海外市場への影響を見ます。"
+      ]
+    },
+    {
+      "title": "【写真】中国当局、ＡＩ企業調査か 米企業に機密流出疑い - 南日本新聞",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fUkZVbjJFQ2lGQnNhUTN3RWV6QVBWemt2Y2VmX1l5QnJlY05YY2tOaE1CMzNtWm1tZmFuMzBxTXhzdTZER280SFUtRU5UaVhwZ29FV21ZenhnYzhZcXRwTDJaNC12dVly?oc=5",
+      "pubDate": "2026-09-23T11:56:08Z",
+      "source": "Google News: 中国 AI",
+      "category": "中国AI",
+      "memo": "【写真】中国当局、ＡＩ企業調査か 米企業に機密流出疑い 南日本新聞",
+      "summaryLines": [
+        "【写真】中国当局、ＡＩ企業調査か 米企業に機密流出疑い 南日本新聞",
+        "中国企業や政策の動きは、価格競争や技術潮流を見る材料になります。",
+        "まどかAI観測所では、日本や海外市場への影響を見ます。"
+      ]
+    },
+    {
+      "title": "中国当局、ＡＩ企業調査か 米企業に機密流出疑い | | 全国のニュース - 佐賀新聞",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1UzV3M2ZHQTJ1MVFOOEh1d0xDaWFZcGxtZkk1alJVQk0zLVJsMy1zZVNPZUlMV3ZlMmp4N09KNDRua3Z6WmQxUTBBQ2ltZ3M5bEx5aDJR?oc=5",
+      "pubDate": "2026-09-23T11:56:00Z",
+      "source": "Google News: 中国 AI",
+      "category": "中国AI",
+      "memo": "中国当局、ＡＩ企業調査か 米企業に機密流出疑い | | 全国のニュース 佐賀新聞",
+      "summaryLines": [
+        "中国当局、ＡＩ企業調査か 米企業に機密流出疑い | | 全国のニュース 佐賀新聞",
+        "中国企業や政策の動きは、価格競争や技術潮流を見る材料になります。",
+        "まどかAI観測所では、日本や海外市場への影響を見ます。"
+      ]
+    },
+    {
+      "title": "中国当局が自国AI企業を調査と報道 - nippon.com",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FTS1EaE42Mm1jdnYyZzVVM1l3ak1BTVBzWUI4bWFOeE1uMnMzTVlQSkdlXzRFUEhiSU9DaUFpaXRPWmVFUXZ3bHluUkZpOF90X0dzMmdWUFUyaEtVNkNIUDNEMA?oc=5",
+      "pubDate": "2026-09-23T11:40:54Z",
+      "source": "Google News: 中国 AI",
+      "category": "中国AI",
+      "memo": "中国当局が自国AI企業を調査と報道 nippon.com",
+      "summaryLines": [
+        "中国当局が自国AI企業を調査と報道 nippon.",
+        "中国企業や政策の動きは、価格競争や技術潮流を見る材料になります。",
+        "まどかAI観測所では、日本や海外市場への影響を見ます。"
+      ]
+    },
+    {
+      "title": "AI画像編集ソフト「HitPaw FotorPea」がVer.5.7.0へアップデート！GPT Image 2.5による「画像から画像」に対応、AI再構図・美肌・4K出力などを新搭載 - PR TIMES",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CdF9OYk1mRm8zRkxCSVZrelBHeWo4TUVQT0hOTndBOWJZVUxvcUwtekVxekJJVDBweVVlcHc5ck41WWRXT0ZTRmlFUUJLV0VUdlZtWVctTEVjVlBtdnZjRVZ1VEdNcG9Zd1E?oc=5",
       "pubDate": "2026-09-23T09:36:21Z",
       "source": "Google News: AI",
@@ -80,126 +223,9 @@
       ]
     },
     {
-      "title": "エッジAIコンピューティングプロセッサの世界市場（2026年～2032年）、市場規模（CPU+NPU、CPU+GPU）・分析レポートを発表 - Newscast.jp",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95MlMxbFZxa09NX3htdk50QmhMMjQwOEpXaHZLSHNMdTlIMHRRZk5KRWdVRE1xNV9YUTVtdGdFOTNvQlJUaXZ1U1dsMkxKLVE?oc=5",
-      "pubDate": "2026-09-23T09:30:00Z",
-      "source": "Google News: AI",
-      "category": "AI全般",
-      "memo": "エッジAIコンピューティングプロセッサの世界市場（2026年～2032年）、市場規模（CPU+NPU、CPU+GPU）・分析レポートを発表 Newscast.…",
-      "summaryLines": [
-        "エッジAIコンピューティングプロセッサの世界市場（2026年～2032年）、市場規模（CPU+NPU、CPU+GPU）・分析レポートを発表 Newscast.",
-        "AIの使われ方や競争環境が変わる可能性があります。",
-        "まどかAI観測所では、どの仕事や生活シーンに広がるかを見ます。"
-      ]
-    },
-    {
-      "title": "HD AI知覚カメラの世界市場（2026年～2032年）、市場規模（シリンダー型、半球型）・分析レポートを発表 - アットプレス",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qQTkyTEhtTElNc3pPU3NYbjJmVDhyMVFoc2xsUVdaVW9Gb1hiQmg4YjN6UlZQRjFYdjIzYlBZeTdTcndqYTY3U3BOYVJPcjA?oc=5",
-      "pubDate": "2026-09-23T09:30:00Z",
-      "source": "Google News: AI",
-      "category": "AI全般",
-      "memo": "HD AI知覚カメラの世界市場（2026年～2032年）、市場規模（シリンダー型、半球型）・分析レポートを発表 アットプレス",
-      "summaryLines": [
-        "HD AI知覚カメラの世界市場（2026年～2032年）、市場規模（シリンダー型、半球型）・分析レポートを発表 アットプレス",
-        "AIの使われ方や競争環境が変わる可能性があります。",
-        "まどかAI観測所では、どの仕事や生活シーンに広がるかを見ます。"
-      ]
-    },
-    {
-      "title": "AI ISP SoCの世界市場（2026年～2032年）、市場規模（統合型ISP SoC、独立型ISP SoC）・分析レポートを発表 - アットプレス",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HZDlZSXBCMTVNQ1hjbzRTbmV5RzNQbVlvc1dZNllmX1RCMUFvbm5zUE9PUDFrQk9BZHlnbzJld0x1YlZlU21pOGpnQjVsb00?oc=5",
-      "pubDate": "2026-09-23T09:30:00Z",
-      "source": "Google News: AI",
-      "category": "AI全般",
-      "memo": "AI ISP SoCの世界市場（2026年～2032年）、市場規模（統合型ISP SoC、独立型ISP SoC）・分析レポートを発表 アットプレス",
-      "summaryLines": [
-        "AI ISP SoCの世界市場（2026年～2032年）、市場規模（統合型ISP SoC、独立型ISP SoC）・分析レポートを発表 アットプレス",
-        "AIの使われ方や競争環境が変わる可能性があります。",
-        "まどかAI観測所では、どの仕事や生活シーンに広がるかを見ます。"
-      ]
-    },
-    {
-      "title": "AI覇権争い「減速」せず、米中首脳の利害一致へ－双方に余裕なし(Bloomberg) - Yahoo!ファイナンス",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbXZOdTFBTHNpV3haRVFBSlBYZnhWbUdlYWJPTHFGZjlCcjRvNXk5NmVZSVFOSEhhVkxaOS1obDh1T0xqZzdWSmUwUDJkOXViSXJQRGZkbU5CdVRLeDF3alo3R2tra09PeU54ejFVYUl4bnQ4V29sZm1YSzEzdlprWVp3U2JrZDA?oc=5",
-      "pubDate": "2026-09-23T09:09:14Z",
-      "source": "Google News: 中国 AI",
-      "category": "中国AI",
-      "memo": "AI覇権争い「減速」せず、米中首脳の利害一致へ－双方に余裕なし(Bloomberg) Yahoo!ファイナンス",
-      "summaryLines": [
-        "AI覇権争い「減速」せず、米中首脳の利害一致へ－双方に余裕なし(Bloomberg) Yahoo!",
-        "中国企業や政策の動きは、価格競争や技術潮流を見る材料になります。",
-        "まどかAI観測所では、日本や海外市場への影響を見ます。"
-      ]
-    },
-    {
-      "title": "中国AI株下落、当局のDeepSeekとムーンショット調査の報道受け - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB6UDBYek03UFFUcHQ2TFFmZWFPZlFpUXVVdFY3dGVZR2Z4VHphSEVvZ2JkVkRNYnJWVGhDSzRha2tQS0tGWmc3VDBRY0ZubHFfU2Q3c0dnZWlDMlRxdU50QXpzeUhJZzVLUmZBMzFUc2FTTmVyWTJz?oc=5",
-      "pubDate": "2026-09-23T08:33:30Z",
-      "source": "Google News: AI",
-      "category": "中国AI",
-      "memo": "中国AI株下落、当局のDeepSeekとムーンショット調査の報道受け Bloomberg.com",
-      "summaryLines": [
-        "中国AI株下落、当局のDeepSeekとムーンショット調査の報道受け Bloomberg.",
-        "中国企業や政策の動きは、価格競争や技術潮流を見る材料になります。",
-        "まどかAI観測所では、日本や海外市場への影響を見ます。"
-      ]
-    },
-    {
-      "title": "中国AI株下落、当局のDeepSeekとムーンショット調査の報道受け（Bloomberg） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxNmdkMFlsaVY5ZFVDdjVoeEV4X1dOMHN4Wi1LY3lrZHR4UmhoUEtSZUZib0NjQnlreHNjQTJ2OVpQckFqdDk5TC15R3F3b1pBVVhwN3NHODNKUkRqbE9sY21yeldaMzR5UEdOOWtPQmcyR2N4STlPd1hUTmUxSVE?oc=5",
-      "pubDate": "2026-09-23T08:30:51Z",
-      "source": "Google News: AI",
-      "category": "中国AI",
-      "memo": "中国AI株下落、当局のDeepSeekとムーンショット調査の報道受け（Bloomberg） Yahoo!ニュース",
-      "summaryLines": [
-        "中国AI株下落、当局のDeepSeekとムーンショット調査の報道受け（Bloomberg） Yahoo!",
-        "中国企業や政策の動きは、価格競争や技術潮流を見る材料になります。",
-        "まどかAI観測所では、日本や海外市場への影響を見ます。"
-      ]
-    },
-    {
-      "title": "中国Engine AIのロボット「T800」、米インフルエンサーを強烈なキックでなぎ倒す―中国メディア - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1saUV0Z3I5OWFjN1ZtazctS05SUFN0SjVFcUdHc0VkSTJQOUx3a1ZTaG5KYUcwcEwtVzBrVnM3QkdJMjRjQm1pZ3Nxa2xycjI1Z0d1eldqMDB1NW9fVE1iNEtUaEZOQXlONmc?oc=5",
-      "pubDate": "2026-09-23T08:00:01Z",
-      "source": "Google News: 中国 AI",
-      "category": "中国AI",
-      "memo": "中国Engine AIのロボット「T800」、米インフルエンサーを強烈なキックでなぎ倒す―中国メディア Infoseek",
-      "summaryLines": [
-        "中国Engine AIのロボット「T800」、米インフルエンサーを強烈なキックでなぎ倒す―中国メディア Infoseek",
-        "中国企業や政策の動きは、価格競争や技術潮流を見る材料になります。",
-        "まどかAI観測所では、日本や海外市場への影響を見ます。"
-      ]
-    },
-    {
-      "title": "【ＡＩニュース】体操男子個人総合、中国の張博恒が金 愛知・名古屋アジア大会 - jp.news.cn",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EVW54SldadE82Y05VanlwOVZjb1kxbzVjcjhUMzZKeVo2LWFBZkU4WWJNTm1tem11ekdCUmlUVFhHbGdPR3IwQUZrZmtNcEN1RVdwZVlRVmJpOElxVXJGdFVRLWdjUGZlTkozSW5qYkEwbXFLcVE?oc=5",
-      "pubDate": "2026-09-23T07:38:45Z",
-      "source": "Google News: 中国 AI",
-      "category": "中国AI",
-      "memo": "【ＡＩニュース】体操男子個人総合、中国の張博恒が金 愛知・名古屋アジア大会 jp.news.cn",
-      "summaryLines": [
-        "【ＡＩニュース】体操男子個人総合、中国の張博恒が金 愛知・名古屋アジア大会 jp.",
-        "中国企業や政策の動きは、価格競争や技術潮流を見る材料になります。",
-        "まどかAI観測所では、日本や海外市場への影響を見ます。"
-      ]
-    },
-    {
-      "title": "中国：AIグラス出荷1～6月に前年比4倍、市場競争は激化 - ashu-chinastatistics.com",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sU0FEOXZfN0hVRVcyemFJV2dBV1gtWGdfcFlNdG4wbEVZc0tKUzVkZnFTOUFFb21BRzhRUFRmTmhLOWMtYXlER3cwbzJkWUQ1NXozSzBDZS1La0dzcjZTUjJDSXp5VDdt?oc=5",
-      "pubDate": "2026-09-23T07:20:00Z",
-      "source": "Google News: 中国 AI",
-      "category": "中国AI",
-      "memo": "中国：AIグラス出荷1～6月に前年比4倍、市場競争は激化 ashu-chinastatistics.com",
-      "summaryLines": [
-        "中国：AIグラス出荷1～6月に前年比4倍、市場競争は激化 ashu-chinastatistics.",
-        "中国企業や政策の動きは、価格競争や技術潮流を見る材料になります。",
-        "まどかAI観測所では、日本や海外市場への影響を見ます。"
-      ]
-    },
-    {
       "title": "太陽の活動領域の出現をAIで予測 黒点が現れる前兆を探る新手法 - sorae 宇宙へのポータルサイト",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12SmE4TVhQNENMTFZOYUlaMHpjbFFFVXJSUjJfTUVZQ1pyZzgtZVNwTXlGbnpVcTlRNWF5SlpFbUZsSnFqUnJtRjBObFp4X09WWmRiYUdldGlOdDhINDNCX0xXeHljTTBKa2Ywaw?oc=5",
-      "pubDate": "2026-09-23T07:08:21Z",
+      "pubDate": "2026-09-23T07:13:19Z",
       "source": "Google News: AI",
       "category": "動画生成AI",
       "memo": "太陽の活動領域の出現をAIで予測 黒点が現れる前兆を探る新手法 sorae 宇宙へのポータルサイト",
@@ -210,42 +236,29 @@
       ]
     },
     {
-      "title": "アンソロピック、医療ＡＩを約１００カ国へ 中低所得国の医師支援で提携 - finance.biggo.jp",
+      "title": "アンソロピック、医療ＡＩを約１００カ国へ 中低所得国の医師支援で提携 - BigGo ファイナンス",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tQ3lEd196czNaQnFQTW9EbUpHMVNJR3pYSHRKNmFnNEdZNmlhekVjcWpZd1lSUEg1S1pSME0wR2M4QjdadVo1djZQSExjb0dRQ3N4aG5neGVSNVpHSlVHWm5UZ3RTQi1yYnBmdXlPRHJqRkdS?oc=5",
       "pubDate": "2026-09-23T06:25:00Z",
       "source": "Google News: 医療AI",
       "category": "医療AI",
-      "memo": "アンソロピック、医療ＡＩを約１００カ国へ 中低所得国の医師支援で提携 finance.biggo.jp",
+      "memo": "アンソロピック、医療ＡＩを約１００カ国へ 中低所得国の医師支援で提携 BigGo ファイナンス",
       "summaryLines": [
-        "アンソロピック、医療ＡＩを約１００カ国へ 中低所得国の医師支援で提携 finance.",
+        "アンソロピック、医療ＡＩを約１００カ国へ 中低所得国の医師支援で提携 BigGo ファイナンス",
         "医療現場での安全性、精度、運用体制に関わる動きです。",
         "まどかAI観測所では、臨床で本当に使える形になるかを見ます。"
       ]
     },
     {
-      "title": "日米、中国念頭に同盟強化 ＡＩ・半導体・重要鉱物で協力―高市首相、ＩＣＣ問題に言及・首脳会談 - 時事ドットコム",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wYVA5QUhsbTBELUNyNFFpOF9kakVvYkVkR1U2RmxySWdqOUxwYWdUY1YzNzduSFlaZUNfcXlPc0VwN0JkeGRWVzgtN3RUZExiWG9TbmVLX1N5UVNVdWRIQzQ4NA?oc=5",
-      "pubDate": "2026-09-23T06:01:00Z",
+      "title": "アンソロピック、医療ＡＩ普及へ提携 中低所得国に提供 | ロイター - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sZ1lsZ0l1TE9DWHU0bENsLTIzV044cFpjZkJhdERmYW05SWlaTU5EX2lVM0pqdTFMNTNFSTNVSW5CbGZiM0VMR2llWGVIbEd6ODBjYlRiYnU1UUpsakh5V3lreUZhN01zV3JuME1wdFR0QURRSWdwbXQ4Z2FQdw?oc=5",
+      "pubDate": "2026-09-23T05:10:51Z",
       "source": "Google News: AI",
-      "category": "中国AI",
-      "memo": "日米、中国念頭に同盟強化 ＡＩ・半導体・重要鉱物で協力―高市首相、ＩＣＣ問題に言及・首脳会談 時事ドットコム",
+      "category": "医療AI",
+      "memo": "アンソロピック、医療ＡＩ普及へ提携 中低所得国に提供 | ロイター Reuters",
       "summaryLines": [
-        "日米、中国念頭に同盟強化 ＡＩ・半導体・重要鉱物で協力―高市首相、ＩＣＣ問題に言及・首脳会談 時事ドットコム",
-        "中国企業や政策の動きは、価格競争や技術潮流を見る材料になります。",
-        "まどかAI観測所では、日本や海外市場への影響を見ます。"
-      ]
-    },
-    {
-      "title": "DeepSeek、国連安保理に参加報道 AIの安全巡る議論で - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45RXRfeGp3QnhRRG8xQUhjX0taMGI5RWJtNDRWVUhGODFwSWVpNGRvdXJFQklPeGNJRjZqQ0p2SVpBS0VQWnpJTFlhLURYTXlQX19CYUROb0YydjNfa1YwMnlUNHZCcHRxUkpRSw?oc=5",
-      "pubDate": "2026-09-23T05:50:07Z",
-      "source": "Google News: AI",
-      "category": "中国AI",
-      "memo": "DeepSeek、国連安保理に参加報道 AIの安全巡る議論で 日本経済新聞",
-      "summaryLines": [
-        "DeepSeek、国連安保理に参加報道 AIの安全巡る議論で 日本経済新聞",
-        "中国企業や政策の動きは、価格競争や技術潮流を見る材料になります。",
-        "まどかAI観測所では、日本や海外市場への影響を見ます。"
+        "アンソロピック、医療ＡＩ普及へ提携 中低所得国に提供 | ロイター Reuters",
+        "医療現場での安全性、精度、運用体制に関わる動きです。",
+        "まどかAI観測所では、臨床で本当に使える形になるかを見ます。"
       ]
     },
     {
@@ -275,14 +288,14 @@
       ]
     },
     {
-      "title": "アンソロピック、医療ＡＩ普及へ提携 中低所得国に提供 - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sZ1lsZ0l1TE9DWHU0bENsLTIzV044cFpjZkJhdERmYW05SWlaTU5EX2lVM0pqdTFMNTNFSTNVSW5CbGZiM0VMR2llWGVIbEd6ODBjYlRiYnU1UUpsakh5V3lreUZhN01zV3JuME1wdFR0QURRSWdwbXQ4Z2FQdw?oc=5",
-      "pubDate": "2026-09-23T05:10:00Z",
-      "source": "Google News: AI",
+      "title": "EXCLUSIVE-アンソロピック、医療ＡＩ普及へ提携 中低所得国に提供 (ロイター) - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaW5nRGpwYUxlZE92dWpQSWwzYVlqX0RJdGhNbUVaZERqTVV0dldKd2E1S2QyMG43VFU4S2dYSGdlX3EyRXFxMmwyS0ZDcXdaaXkwam1wU0J3aVBTLXRlM1Z6VmtMbWlESkdxY1ZpZEp0eTRzd0F3ZHpMdjU2RnZRb3QwZ3EzOUM5X2J6M3ln?oc=5",
+      "pubDate": "2026-09-23T05:10:29Z",
+      "source": "Google News: 医療AI",
       "category": "医療AI",
-      "memo": "アンソロピック、医療ＡＩ普及へ提携 中低所得国に提供 Reuters",
+      "memo": "EXCLUSIVE-アンソロピック、医療ＡＩ普及へ提携 中低所得国に提供 (ロイター) Yahoo!ニュース",
       "summaryLines": [
-        "アンソロピック、医療ＡＩ普及へ提携 中低所得国に提供 Reuters",
+        "EXCLUSIVE-アンソロピック、医療ＡＩ普及へ提携 中低所得国に提供 (ロイター) Yahoo!",
         "医療現場での安全性、精度、運用体制に関わる動きです。",
         "まどかAI観測所では、臨床で本当に使える形になるかを見ます。"
       ]
@@ -353,29 +366,16 @@
       ]
     },
     {
-      "title": "テンセント急騰、新画像生成AI「Hunyuan」がバイトダンス・アリババに対抗 - finance.biggo.jp",
+      "title": "テンセント急騰、新画像生成AI「Hunyuan」がバイトダンス・アリババに対抗 - BigGo ファイナンス",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfYVJtbmk1cGRrSVJtZDdWQkdJdk14RGpuelJkVzU5YXVOaTNFbHpPRnZXNktZQUZTc1B3VExnSHh0eGZEWW12bDJTaUt4czd5dFJ3OGN3cldXM19yNjlTSi1UWnliX3p3N2dSWEoyd3l4OXVa?oc=5",
       "pubDate": "2026-09-22T18:17:00Z",
       "source": "Google News: 生成AI",
       "category": "画像生成AI",
-      "memo": "テンセント急騰、新画像生成AI「Hunyuan」がバイトダンス・アリババに対抗 finance.biggo.jp",
+      "memo": "テンセント急騰、新画像生成AI「Hunyuan」がバイトダンス・アリババに対抗 BigGo ファイナンス",
       "summaryLines": [
-        "テンセント急騰、新画像生成AI「Hunyuan」がバイトダンス・アリババに対抗 finance.",
+        "テンセント急騰、新画像生成AI「Hunyuan」がバイトダンス・アリババに対抗 BigGo ファイナンス",
         "制作現場の効率化と、権利・品質管理の両方に関わります。",
         "まどかAI観測所では、制作工程と著作権対応の変化を見ます。"
-      ]
-    },
-    {
-      "title": "Yusril Ihza Mahendraは、AI規制のバランスをとるよう促し、著作権者は引き続き保護されなければならない - VOI.ID",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5LUFh1RVRwenh0dHU0RkYxWjBBRldHWVpQcFJlTzZfSVVfRlpRUDhRcVZQY2dlRWJjeW9TMElrNE9PTlXSAUJBVV95cUxQSURYQk1MRmprRjlRdUNGMXZydDM3ODZPMUFoMDVYaHJTSGFHWXlIczV3Q1d5RThWX2pDaG1tblhobmc?oc=5",
-      "pubDate": "2026-09-22T12:00:00Z",
-      "source": "Google News: AI 著作権",
-      "category": "AI規制・著作権",
-      "memo": "Yusril Ihza Mahendraは、AI規制のバランスをとるよう促し、著作権者は引き続き保護されなければならない VOI.ID",
-      "summaryLines": [
-        "Yusril Ihza Mahendraは、AI規制のバランスをとるよう促し、著作権者は引き続き保護されなければならない VOI.",
-        "AI利用ルールやクリエイター保護の実務に関わる論点です。",
-        "まどかAI観測所では、実務で何を変える必要があるかを見ます。"
       ]
     },
     {
@@ -405,14 +405,14 @@
       ]
     },
     {
-      "title": "中国のテンセント、AI画像生成モデル投入－字節跳動やアリババを追撃 - Bloomberg.com",
+      "title": "中国のテンセント、AI画像生成モデル投入－字節跳動やアリババを追撃 - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkOU8tTDA3UDQ0aWNTdm1oMU9PZEtNQVFtNzNDSklNV0NXVS0taTJaSzRIUGVuVFVrdkZWQlZoYnNwYUFrRElVMlU3c2pOTm9Cakp1aEdvQldWTDEtRWlDTUpuc3pnNzFFTzBFTHlkcmF2LUZfelpj?oc=5",
       "pubDate": "2026-09-22T08:54:32Z",
       "source": "Google News: 中国 AI",
       "category": "画像生成AI",
-      "memo": "中国のテンセント、AI画像生成モデル投入－字節跳動やアリババを追撃 Bloomberg.com",
+      "memo": "中国のテンセント、AI画像生成モデル投入－字節跳動やアリババを追撃 Bloomberg",
       "summaryLines": [
-        "中国のテンセント、AI画像生成モデル投入－字節跳動やアリババを追撃 Bloomberg.",
+        "中国のテンセント、AI画像生成モデル投入－字節跳動やアリババを追撃 Bloomberg",
         "制作現場の効率化と、権利・品質管理の両方に関わります。",
         "まどかAI観測所では、制作工程と著作権対応の変化を見ます。"
       ]
@@ -441,19 +441,6 @@
         "AI時代を生き抜くクリエイターの「属人性」戦略！",
         "制作現場の効率化と、権利・品質管理の両方に関わります。",
         "まどかAI観測所では、制作工程と著作権対応の変化を見ます。"
-      ]
-    },
-    {
-      "title": "平塚市民病院、医療文書作成にＡＩ導入へ 時間短縮、２６年度内目指す - カナロコ",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EYUJjZktiZ2g0X2dQUkc0NlhwSGVURmVOdTcxSmJZVXBQRWUyOHprXzZScGdkWlVGNGhkeGU4Z0dGcFpUZjV4Q1p2N0hqUFdhUjluOWV3RjRvLTNBd3I4MFdFM1J0ZEIzOVkxaQ?oc=5",
-      "pubDate": "2026-09-22T02:00:00Z",
-      "source": "Google News: 医療AI",
-      "category": "医療AI",
-      "memo": "平塚市民病院、医療文書作成にＡＩ導入へ 時間短縮、２６年度内目指す カナロコ",
-      "summaryLines": [
-        "平塚市民病院、医療文書作成にＡＩ導入へ 時間短縮、２６年度内目指す カナロコ",
-        "医療現場での安全性、精度、運用体制に関わる動きです。",
-        "まどかAI観測所では、臨床で本当に使える形になるかを見ます。"
       ]
     },
     {
@@ -595,6 +582,19 @@
       "memo": "スクウェア・エニックスは9月16日、オンラインゲーム「ファイナルファンタジーXIV」（FF14）の著作物利用条件を改定し、二次創作グッズなど「有体物」の制作を…",
       "summaryLines": [
         "スクウェア・エニックスは9月16日、オンラインゲーム「ファイナルファンタジーXIV」（FF14）の著作物利用条件を改定し、二次創作グッズなど「有体物」の制作を一定の条件で認めると発表…",
+        "AI利用ルールやクリエイター保護の実務に関わる論点です。",
+        "まどかAI観測所では、実務で何を変える必要があるかを見ます。"
+      ]
+    },
+    {
+      "title": "【日本初の裁判】AI生成の画像に著作権はある？ない？画像販売会社が「無断掲載」されたとして提訴…利用した美容サロン「著作権は存在しない」と主張 判断基準はどこに？弁護士「国内にまだ法律がない」 - TBS NEWS DIG",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wcktOWVk4ZzZEV2E0elFLTjhKdS1fYUZLM19HZjdpMldHN1dKWHR0ZXZJdEhQeVRvSXhGUjk5YlNDaC1JN2FzNVBZMloxR25hcFd6eHpONA?oc=5",
+      "pubDate": "2026-09-16T10:45:00Z",
+      "source": "Google News: AI 著作権",
+      "category": "AI規制・著作権",
+      "memo": "【日本初の裁判】AI生成の画像に著作権はある？ない？画像販売会社が「無断掲載」されたとして提訴…利用した美容サロン「著作権は存在しない」と主張 判断基準はどこ…",
+      "summaryLines": [
+        "【日本初の裁判】AI生成の画像に著作権はある？",
         "AI利用ルールやクリエイター保護の実務に関わる論点です。",
         "まどかAI観測所では、実務で何を変える必要があるかを見ます。"
       ]
