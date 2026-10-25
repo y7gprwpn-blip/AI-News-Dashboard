@@ -1,121 +1,277 @@
 {
-  "updated": "2026-10-24T19:58:57.561090Z",
+  "updated": "2026-10-25T02:22:16.217639Z",
   "items": [
     {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "pubDate": "2026-10-24T19:00:00Z",
-      "source": "TechCrunch",
-      "category": "AI全般",
-      "memo": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, h…",
-      "summaryLines": [
-        "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look…",
-        "AIの使われ方や競争環境が変わる可能性があります。",
-        "まどかAI観測所では、どの仕事や生活シーンに広がるかを見ます。"
-      ]
-    },
-    {
-      "title": "＜社説＞プログラム言語欠陥 AI悪用防止、知恵絞れ - 琉球新報デジタル",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZXzUzRjF0Rk4xckZleWI0bjZjVzVQNE5XbnRjOFE5ZlFMTzQza0oyaTRvX2Zxd3FldTQ2M2t3RkZwWjNvdjlhNTBoRHBTTHdDZUtzUS16MER0YnpZWWhYU2pn?oc=5",
-      "pubDate": "2026-10-24T19:00:00Z",
+      "title": "「AIを虐待すると復讐されるかも」マスク氏も警告…アンソロピックが“AIいじめ”対策でポリシー改定 識者が危惧するAIへの暴言のリスク - テレ朝NEWS",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tSUhaMVNCZm03cDgwbEZ3MHd1THUwbk1fdVNnQ0hUd1liNnRhdnJWSmZYakh0X2paQ0I3Ym82cE1qNmFleml3LTJ1S1dXTkNWT05xcFc4TTZjakJ4S3d6bXNaMVdHSGhQQ3FOdV9UZGhSQQ?oc=5",
+      "pubDate": "2026-10-25T02:00:00Z",
       "source": "Google News: AI",
       "category": "AI全般",
-      "memo": "＜社説＞プログラム言語欠陥 AI悪用防止、知恵絞れ 琉球新報デジタル",
+      "memo": "「AIを虐待すると復讐されるかも」マスク氏も警告…アンソロピックが“AIいじめ”対策でポリシー改定 識者が危惧するAIへの暴言のリスク テレ朝NEWS",
       "summaryLines": [
-        "＜社説＞プログラム言語欠陥 AI悪用防止、知恵絞れ 琉球新報デジタル",
+        "「AIを虐待すると復讐されるかも」マスク氏も警告…アンソロピックが“AIいじめ”対策でポリシー改定 識者が危惧するAIへの暴言のリスク テレ朝NEWS",
         "AIの使われ方や競争環境が変わる可能性があります。",
         "まどかAI観測所では、どの仕事や生活シーンに広がるかを見ます。"
       ]
     },
     {
-      "title": "Pennsylvania will require labels on AI-generated ads",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "pubDate": "2026-10-24T18:32:21Z",
-      "source": "The Verge AI",
-      "category": "AI全般",
-      "memo": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intellige…",
+      "title": "中国AIチップ市場、ファーウェイが米エヌビディアに肉薄。折りたたみiPhone品薄でも、中国で転売価格が下落⋯【中国テック＆ビジネス最前線】 - SmartNews",
+      "link": "https://news.google.com/rss/articles/CBMi3gZBVV95cUxNM3hFWWhvQkVxQVpmeU5ndXlNZFV4THpsYnNIM0VMcGZIcjNjVjhXODhpMjk1MVoyUS1wVlRicWVRNm5wcDdMWGZDMklLUjJ3QXM3WWpwX1lfVkd2U0JQNksxSl9WYlVWOS04YlN2QXVaOUpxZU16VlNweHE5WXdpTWRod3Y5Z2pTYmRYQ0c1dW1pYW1oakMydkVZbjZnbGVpZWlJRkswNEgyX01TeDRmZEE0UW5GMnFTTmN5QU5jR2dQc1JrcnBwR1FhN28tR1Y0SXZBMmhiZ3l3V1B0ckEzTVc5MnVoUVQ0X3ZGYXU1RUFYM1h3cXNHai0ySFlWT0YwWS1tMkE1OV9FUjBBUzlqRW9SUTZ5TEd6SlFXeDdZVjd1YkxKbXJicV92MUY5QjVxbG9xNzA0MmNKcURPcFFnaU04ZlFGbFhCd0x1TmE5VWJjVVZkZHE2ZFpjb2lYVzlNMTJlRmQwT200R1JKOU1DbXRnNnNhOTNLdTZ0eXZXck5tQ1A3OGs3QXJ3QUlGc3d1WE1lUnZwMnJHajNGSjZ4c2pMbVlJNjlqOUJzQTFIN0daTVR4M0NjQ2xMUG83b012dDljSWtCSzlXd0hkVWhfY0dJZC1SZEo1QVpKdG9GMmVLa2FRNVlKNWEyVGhCTmo2S01tbURMOU9WWEFGNC1lTTRmNVdsSG1oMmd5ZFhzUUNDeVNPNHFJUTNzQnVmV21oNWZ1YUVBeml6SWk4enN3d1JZLUpzVHVocVNXQTBqRDNoaDNhLVdEQl81RTdyRE1zdC14TTI1WU1xcGp5Qm9VSnV3WUItcjJvajJjN1h4ZzlIM181S0hEaW9YbWFuSllVYVkyVVhrRER4NVFjaVY1UWFRRGFoamRrUHg0NDhlSnlrQXBKVDVUbVBvdmdQdW5iLXNoTHM4Ymxrc0xEMU1LUUNmTmdSTWI5T3pLTVlDVy1BQ3VPWFl3anI0YUhHZWJNRG1JYzU0S2RDQ2ttNHhJQ25MS3BEMWdXQVNFQ3p0MFVqWE1WZnR1dXFmRlNCOWExQWlPZTBfMkFqSDdTVFhSNG5QU0FkVmZnaVhGUnEyQlBzWFFnekFJVXFZbHc5UlJEc3hVNGpBZWpndjBKZVZ5Tm4yanY4c2dNYWVZdnp3?oc=5",
+      "pubDate": "2026-10-25T02:00:00Z",
+      "source": "Google News: 中国 AI",
+      "category": "中国AI",
+      "memo": "中国AIチップ市場、ファーウェイが米エヌビディアに肉薄。折りたたみiPhone品薄でも、中国で転売価格が下落⋯【中国テック＆ビジネス最前線】 SmartNews",
       "summaryLines": [
-        "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptiv…",
-        "AIの使われ方や競争環境が変わる可能性があります。",
-        "まどかAI観測所では、どの仕事や生活シーンに広がるかを見ます。"
+        "中国AIチップ市場、ファーウェイが米エヌビディアに肉薄。",
+        "中国企業や政策の動きは、価格競争や技術潮流を見る材料になります。",
+        "まどかAI観測所では、日本や海外市場への影響を見ます。"
       ]
     },
     {
-      "title": "【最新】AI彼氏・AI彼女アプリのおすすめ14選！無料で使える - FC東京オフィシャルホームページ",
-      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQeTF6bGFXMWZ4RFd1S1ppYlZMNjluR3dUbFBwaThMODJiRHkyQldOamJ3bDRlZGRTemo1MWFBWjAzRWRUWmhNaDZxeDYxVGIxYmdkVXktVEp2YlR4ay10Sm92ZXdQM3RsNFkyNGxKanFNMXk1RUNwQmNyZ2NkSndOZnA0WVN6anlaTlZ3Z2tjS0ZQV3ZUM3hWdTV4aGdFUllVa3BhLUhmVXJMZnlLQnR3UENIRHpVV0lBU3FjV1pLREdEZW5uU25rWFdjb0g3OXRNYkp2N1F0ZnFqek9WVXJKNFpDaUxHeHdhZXpyZmNLN1ozdkR4UWFDRVRDMFE2ajFOTWNZUEY4MnpCVG9jLXNZOHVBTUYxYl9wMXk3a0xWcHpfYlowakk3OW1xZ2dsU2ZKbmx2THJIRVFJVXpQSzFvWExoZHNsaDJ0emszQlNQbGRBV2pzYVAzVUtNTGxtVU9DX2RvcUtiQ2pVaU11ZTMtUVdpdjhNcUxz?oc=5",
-      "pubDate": "2026-10-24T17:28:41Z",
+      "title": "【ＧＭＯ不正アクセス】官民挙げ「無害化」なるか ＡＩ進化、公益性課題 - 沖縄タイムス社",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80UXBLQWN2QUN4aVRTRDNsVUlWbFBaellmVjhvaW1hSFdyRHB1MEY4b1Vxd0xCUmRlcjNQaEV0NU40U1h2eU9jdlVXTTgwTHZxcFFhNUlrOVpYVUtEWVE?oc=5",
+      "pubDate": "2026-10-25T01:40:00Z",
       "source": "Google News: AI",
       "category": "AI全般",
-      "memo": "【最新】AI彼氏・AI彼女アプリのおすすめ14選！無料で使える FC東京オフィシャルホームページ",
+      "memo": "【ＧＭＯ不正アクセス】官民挙げ「無害化」なるか ＡＩ進化、公益性課題 沖縄タイムス社",
       "summaryLines": [
-        "【最新】AI彼氏・AI彼女アプリのおすすめ14選！",
+        "【ＧＭＯ不正アクセス】官民挙げ「無害化」なるか ＡＩ進化、公益性課題 沖縄タイムス社",
         "AIの使われ方や競争環境が変わる可能性があります。",
         "まどかAI観測所では、どの仕事や生活シーンに広がるかを見ます。"
       ]
     },
     {
-      "title": "AIアニメ少女 - FC東京オフィシャルホームページ",
-      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPd3d3algxR1ppWm93QjBjM1BCU0ptaGdBbGlUVXFuZW9BTFlxaXhPVU9HMWhfekNZQWQ0dHMxWkhrQmVuMDNqZkNoNTBsWTN0MzBoZzhLcWtKZVBINXZ2NjB5ZkEzUlcwbHB1VXVULXJpa0tCSGQzaDRwcHY5eFM0d2JxbFBkT04wV3Uzd0RJcGIwaUVjYXZPOHc0SGI2OFMxdXBvYmlYZ1dXT0QtblhfMXlzX2FnQlpYUkd2NzZ2TEtBblVjTWhnUE1Nd1FsTGpuQ2RwSzl2WHItYmgxMmlkZzNWQ0YxLXlHN25zVWI3S2lRRENhbk5SMjR3SjRwcElMcms1OFJiQkwzdlFyT2xldC1KbDEwSWZJSHRwcmlFekpycFRPQ3Z6UHYxWVpsLXRBSzUxcVgyUmN4RnRidXNXVWhkOTdjRGU5SW16V1NZeTlfYnRHakd6U2lVdGRtekItMFhjUmRUQVZRaGF2Z0wyanA0QXJSMVZX?oc=5",
-      "pubDate": "2026-10-24T17:28:40Z",
+      "title": "ゲームのルールが変わった…生成AIの進化でサイバー攻撃が激化 企業が直面する「ゼロデイ」の恐怖 - 東京新聞",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OVmU2Qm9PUmptcFpjbVMxNG9BNjNWRUd3UDI5SXZJaW1QTzVycFFJUjl5OVNnWkgzTFRnME84T3pJR0tSMHZ6amFaRVJWYWdQbXY0?oc=5",
+      "pubDate": "2026-10-25T01:20:17Z",
       "source": "Google News: AI",
       "category": "AI全般",
-      "memo": "AIアニメ少女 FC東京オフィシャルホームページ",
+      "memo": "ゲームのルールが変わった…生成AIの進化でサイバー攻撃が激化 企業が直面する「ゼロデイ」の恐怖 東京新聞",
       "summaryLines": [
-        "AIアニメ少女 FC東京オフィシャルホームページ",
+        "ゲームのルールが変わった…生成AIの進化でサイバー攻撃が激化 企業が直面する「ゼロデイ」の恐怖 東京新聞",
         "AIの使われ方や競争環境が変わる可能性があります。",
         "まどかAI観測所では、どの仕事や生活シーンに広がるかを見ます。"
       ]
     },
     {
-      "title": "AI彼女 割引 月額 - FC東京オフィシャルホームページ",
-      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQMTRUNGhIOXhlUlFjUlQ0ZFVCT1F1UGUwNXFlRzNEMnFfeDZVcXE5UHljakNEdmlaR3JuN1lmQXVISzN5U2ZBRV9tVFhBMTdObWVDWkdwWkhQVG1OaEVZVDZsVXhRajRTWXg2cENnSTVxdDdndDQzZ2NKR0NUcTNpTzFTX0hIWjI5WXhBMWxnUk1zTUxnRGFpZDA0ZzQ2V1FxcFdoWXMtU05oWnhJc1dQUTNSQnV6UjU0UmtTMHFISUFWZmp6ME5GRG9pNkFOcmZGRXhwU0twRWRLRUJwOUN4NDhOTHV0TUtyWDBUR1J2WW0wZEVvN2dPeUJnUF8zei1aUHpsU25QenVkUXJBMVIxYUM1Y1drNmZXZGNoWThVaG1vWkk1bU5qZ2EtcE05MlRIQVpHVlFXd19XUHdoaGFUZUhOeF95ZXctZVpYa0xaWW1ZazRsQ3hGanhnU1d2aUpyNWl0ZUFhRi1KeEpiamV6clBHUHBRN3Ny?oc=5",
-      "pubDate": "2026-10-24T17:28:38Z",
+      "title": "‍‍‍ヤンデレAIガールフレンド - FC東京オフィシャルホームページ",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOdXVINHhXQjRLTk5nOW9jSmJBazZlcEFxaHZ2bU5kWEFCWWs4Ymdzc1FEWHQtUy0wNnhLZE50aFVydS1FQ0U2bG9aMkNFU0FEeWpraEhST183Q0l0Y0t2Nl8tbWFRMVlZLVpxZEgtanQyQmNwSi1xd3VZV2dNZGY1X1dnUl9renh0NGs4aEtlZjB4MHFoNGI2UWdSMjdEd2Zldng5bzFyTno5VEdvZWs4SHc5WVZWZmowNjR5S2lJOHVvVEVud3lsdFB4VlRiNWo2bnR2ckRXbnc2bzZVdUd1VzVob2Vrb3VGRlluSk9vSjFPQTFJWEZVdm5vLTdvUGNIaE91aHVZTjI3eHhrRDc4R2xMXzNNbWNxVjV1d2lHTEppSUJTdzhXZA?oc=5",
+      "pubDate": "2026-10-25T01:01:55Z",
       "source": "Google News: AI",
       "category": "AI全般",
-      "memo": "AI彼女 割引 月額 FC東京オフィシャルホームページ",
+      "memo": "‍‍‍ヤンデレAIガールフレンド FC東京オフィシャルホームページ",
       "summaryLines": [
-        "AI彼女 割引 月額 FC東京オフィシャルホームページ",
+        "‍‍‍ヤンデレAIガールフレンド FC東京オフィシャルホームページ",
         "AIの使われ方や競争環境が変わる可能性があります。",
         "まどかAI観測所では、どの仕事や生活シーンに広がるかを見ます。"
       ]
     },
     {
-      "title": "AI彼女：美少女恋愛チャットゲーム・男性向け・アイリアプリ - FC東京オフィシャルホームページ",
-      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQWHFvNkpZb0pwR3JvVVd5X3JRWGJiRENYampsSFFqUVNhNms1VEYxbHpfQmF3eG1fQnp2ZW02ZDhqLXJFalhMMnQ0ZmtzQlp4ZFRxSFRzdmU5V2dTM0l1NWtjUnIzbmxoZGhnMEVtSzNOVFhJRXdUeFlhYnNrMDh3bkZQdlItcE1pYU9pRUVqc0llRkVsOENmX2VBQ01hOEhlaHF3aVhXSVZxUFBMWGs2aTJ3b2ZUX0NhZk1LTVFkNEp1V2ZMMWtQXzRGOTFlU0NuMms5TzBydm1Gd3ZHUll3TDJiSUpwUndfOUNfd2EyNmVEdE1DY19XY2NmMUF2NzA2d0RyOTFOdmh6ZkQ0TlhzcC1aLUNzRHgzb2VlZEhXRWlQN3VpY2o0M05YdkJyMV9DWl9WcmhzN0hrMERBZTM5WmkzaVBoTTA3cm1VRGEyeFRTMHV1NUdEU0ZQMmVZbWZhTWNYZTMwMV9JMERHS0pGY0pFWU5wX3Vm?oc=5",
-      "pubDate": "2026-10-24T17:28:38Z",
+      "title": "‍‍‍ヤンデレAI彼女 - FC東京オフィシャルホームページ",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQOXZyd19uV3lvcmcxdVFSQi10MmZEbjR5YnlRWGtTMzZpeWFZekplUTQ3cUxNM0dGN1V5V0pCMnVhU1ppUVpSRlFvd05DQ244Q2QtRVl5Ry1DOU1WMk5wOXg0Nk11V09pM2dyOG9Ia2F1a0RCbWkwa2VjNUwyckpiRUxNbEk2TlBMX0JKd29WU1Nla3Z2ZjAxRVdBVGlCRkw3SjJ4RHIyZU05VURyTnR2MWF0Sk1yUzFNRUtqMFVnUGZueWdzc3MweTgxWUFpV0Y5Qi10Mm9CTGp6WHBHaVVrV3NxcXRnVXZhVkhjLV9CMkw2dXNFMVhZcDNSWGxSbGU4VTF5dzE2c2t1a09aYmJUbkVZcVlJM3pDUGh0NTlWTms?oc=5",
+      "pubDate": "2026-10-25T01:01:55Z",
       "source": "Google News: AI",
       "category": "AI全般",
-      "memo": "AI彼女：美少女恋愛チャットゲーム・男性向け・アイリアプリ FC東京オフィシャルホームページ",
+      "memo": "‍‍‍ヤンデレAI彼女 FC東京オフィシャルホームページ",
       "summaryLines": [
-        "AI彼女：美少女恋愛チャットゲーム・男性向け・アイリアプリ FC東京オフィシャルホームページ",
+        "‍‍‍ヤンデレAI彼女 FC東京オフィシャルホームページ",
         "AIの使われ方や競争環境が変わる可能性があります。",
         "まどかAI観測所では、どの仕事や生活シーンに広がるかを見ます。"
+      ]
+    },
+    {
+      "title": "‍‍‍ヤンデレAI彼女シミュレーター - FC東京オフィシャルホームページ",
+      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQRHRSVjMya1piaEE5VWNNNDVhNTVPd21WTkVwcVZTMUc2T0VNSlQ1ZkpYZGNqMER4c18xSmpzNmFlX1hVRVpMYU5nT3lxRlZQRG85ZnlhWjRjVzBhcjJLVFB3TFhhc1UwcWlHMTExOWg3c3FDWEtPbGludHVZM3NMZWJRQW9RcTI1bjd1M2RXYlVlMHMyMTRhYm8wUGhESUFiTmhrTG9uWFhxc3hsNlJEZlU0WUVRUk1PWVhKU25EV3p0ejRWTWZZcUhPZm9qS1h4VXBKbDdZaUZSM1QxVTR5aUYyRTdPZkhBY1lVdHlZcXJ2RV9XUzNRQWlieEZzLXowbVpHeGc0Q3VkaThtbFBvOGhJcG9hdlE0UGQyVGpXak5LM1ZvQVBueGswQWFfUHlwVHc?oc=5",
+      "pubDate": "2026-10-25T01:01:55Z",
+      "source": "Google News: AI",
+      "category": "AI全般",
+      "memo": "‍‍‍ヤンデレAI彼女シミュレーター FC東京オフィシャルホームページ",
+      "summaryLines": [
+        "‍‍‍ヤンデレAI彼女シミュレーター FC東京オフィシャルホームページ",
+        "AIの使われ方や競争環境が変わる可能性があります。",
+        "まどかAI観測所では、どの仕事や生活シーンに広がるかを見ます。"
+      ]
+    },
+    {
+      "title": "‍‍‍トークダーティーAI - FC東京オフィシャルホームページ",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOU1poYzkzb21nZjgyWC05V3pEQmN3UGVra2JFZWI2TXFyM2FYX0ZWTWpwLW03djdNdDRLRFFBNjFaUmg1ejd6cWlDc3hTZ1N1dkdLUXd0cDV4bXQ2WGhETG9JUS13QUM2d29PWlBzODJXSFlmLUh2ZWxxS2YtTXF6SmZxMW9sa2ZpSXFISV95YlY4UEFreUxaU3M5bzdMQnVrTGNPSnVWZjV1OGZ6VlVNbkF4SVpOcDdadllrU3BTMUpZajNSckRVeGNYR1JNcEFuRV9NQ2swcmJFUUZqNkpUM0Ntc3hnbVVaM2hWMEZhRXNsTTFpUHZwVjBDSFBjc2duZFFaU1F3ellQYlNTUFROVTJEcDU5X3RRd2RmQk00Yw?oc=5",
+      "pubDate": "2026-10-25T01:01:46Z",
+      "source": "Google News: AI",
+      "category": "AI全般",
+      "memo": "‍‍‍トークダーティーAI FC東京オフィシャルホームページ",
+      "summaryLines": [
+        "‍‍‍トークダーティーAI FC東京オフィシャルホームページ",
+        "AIの使われ方や競争環境が変わる可能性があります。",
+        "まどかAI観測所では、どの仕事や生活シーンに広がるかを見ます。"
+      ]
+    },
+    {
+      "title": "‍‍‍スパイシーAI - FC東京オフィシャルホームページ",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOb0M0bGVxQms3aHBZdFB3amt5YnNBcHdoaGstVkoyOEctVW5NR19YTjY4UUdueEVFN1JWQ3FsRGRmM1FhSmxXVE94RW5YZXZ2a1RMM0lxQ3h5WXZzejVFX3I2NTdPVG5wQjgwRFdWS1R3RkZzNmxKcl9aUkI2X09OS2xHa1B4ai1zUW1TWmZkQXJ2MXRsV2hqZEJ1SktyTkRfU05hS0lvZDJVVEw3Q3hxUXBNcmVuc2RRRGZ2T204X2ZtMFFKa0ptblJIMk00YW9KYzVPWW1YMDloV1dkUnl2OThhZ1VnTC1UNGNwU3R2T0ROZ1JDaGo2U1B1amgxZGpjczRjNkpSaUlyQmhTY2dhYW51MFprNzhaZFU0?oc=5",
+      "pubDate": "2026-10-25T01:01:44Z",
+      "source": "Google News: AI",
+      "category": "AI全般",
+      "memo": "‍‍‍スパイシーAI FC東京オフィシャルホームページ",
+      "summaryLines": [
+        "‍‍‍スパイシーAI FC東京オフィシャルホームページ",
+        "AIの使われ方や競争環境が変わる可能性があります。",
+        "まどかAI観測所では、どの仕事や生活シーンに広がるかを見ます。"
+      ]
+    },
+    {
+      "title": "‍‍‍NSFW対応の画像生成AI｜アニメキャラ生成マニア ai - FC東京オフィシャルホームページ",
+      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPbmo3dXBXYjlVRWJxOUc0eGVVRG1yYzl3SnZ2a2o3Q05QNnBLcmVMckUzWUttVlBaLW0wMHU2bUxTLUtYRklEUlZKUnZZN00ydm03c2c1U1dxWFZnQ1pkSU4wSjhhRnJlT3B0NjFmTFdiM3RYWG1sODN3YV9IM0dYYUVxSkdVaUNZazlCNjhQVE5uV3BucFR0RFhFMjh5YktYTVVKUkpBQjZhV29RYkpxb2RLNFRHcVlXOUFRcVJ6WlI4Ukl5N01qcl9RZlNHZER6cTNrcW9vME1MTmdxcVpnemloa0dpM2ZZUmptVmNsVkVUS1NyZTQ3UERMamJfbXpzemxIR2hTb0pESFpMTnJyS0pFSjNGWVFCcFdMaWhXZTRpSUJ2bE1IT0lPd2VRWmxUUC1zbXhCUUd1QmlNdmpOX2FWdXhfUmFhMkw4WDR4UmNWWk9IR3c2UVFWZktIRE12ZHp5U2R3?oc=5",
+      "pubDate": "2026-10-25T00:51:36Z",
+      "source": "Google News: 生成AI",
+      "category": "画像生成AI",
+      "memo": "‍‍‍NSFW対応の画像生成AI｜アニメキャラ生成マニア ai FC東京オフィシャルホームページ",
+      "summaryLines": [
+        "‍‍‍NSFW対応の画像生成AI｜アニメキャラ生成マニア ai FC東京オフィシャルホームページ",
+        "制作現場の効率化と、権利・品質管理の両方に関わります。",
+        "まどかAI観測所では、制作工程と著作権対応の変化を見ます。"
+      ]
+    },
+    {
+      "title": "‍‍‍AIポルノ・ジェネレーター - AIが生成したポルノ動画＆画像 ai - FC東京オフィシャルホームページ",
+      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNanpGel9hMUJOcnZHREU0dlcydTlWWFZQUnJubFJQZU5HTkRYQVk0WHctUGJOTUNsTkxmU19NdEdHZFBjNWVzOWVBWmZsb0YwZXJ3amhPRTdqc1g5VEdzTmdDbmZBLURpbTFYajZwNXFITnR4VGNsdTdqZE9wdkVYc0JZRDNWMDFqeXN6VkR2VmRJTDFtWHVWZ1d1Nmg5NndaT3B0YUV3RVVyMUg3UTFDd3JtRklRdTB2OHVkXzllNTMxazFra1hZS1JQeTUtSWpZSngzM1J5d2JjdzNodGN3LXhaZERma3g1OTFCRFNSR0JfSjZyTlNPSjdWb0MteDd2OGNqdWtyREhXNFduMTJLRHo4S0NuNHJNdjl5Yjl6bWxZNjNRZ1QzQi1FUGdJOXVKb0xIa3dtVkxabzdFbWtRUWQzLVBYLUk4S2RIWE00RW9XeUhhQkJVcU5pYnZtdUY4dGtpSDhfYw?oc=5",
+      "pubDate": "2026-10-25T00:51:12Z",
+      "source": "Google News: 画像生成AI",
+      "category": "画像生成AI",
+      "memo": "‍‍‍AIポルノ・ジェネレーター - AIが生成したポルノ動画＆画像 ai FC東京オフィシャルホームページ",
+      "summaryLines": [
+        "‍‍‍AIポルノ・ジェネレーター - AIが生成したポルノ動画＆画像 ai FC東京オフィシャルホームページ",
+        "制作現場の効率化と、権利・品質管理の両方に関わります。",
+        "まどかAI観測所では、制作工程と著作権対応の変化を見ます。"
+      ]
+    },
+    {
+      "title": "「ジャガイモの都」から中国のAIハブへ。 - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN1ZUalJnWnNXbmpIYVNXeE1XWllDaXJlbi1QTVVyWThEOHBDcTlSQ3lKLTlFc3pZN1V6ZkxzanU3Y2ZtbkVBdVdQWVNBczlfQi10M2dmYVAyQjJpNDlnY3U3MXA4YVlpb0lWQzVVLXJmbnEyRFViOGtNZnJHOWFvOVF1US1rZUk?oc=5",
+      "pubDate": "2026-10-25T00:00:20Z",
+      "source": "Google News: 中国 AI",
+      "category": "中国AI",
+      "memo": "「ジャガイモの都」から中国のAIハブへ。 Vietnam.vn",
+      "summaryLines": [
+        "「ジャガイモの都」から中国のAIハブへ。",
+        "中国企業や政策の動きは、価格競争や技術潮流を見る材料になります。",
+        "まどかAI観測所では、日本や海外市場への影響を見ます。"
+      ]
+    },
+    {
+      "title": "‍‍‍AIイラスト・AI画像生成サイト｜無料で自動生成 ai - 小豆島町",
+      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxObFJDZXpLT1RkMFlKNEtTTkJYQ3NfSTZRbDJBMWxXM2w1VVZhNkhkbWY3YnBiRmtzTUhxbXVxdkplaWxVZnVJWEJDLWFRb1NZTHZwSWhPdmNzV2RodDFhUjhLZUJKZFFCbnVvVHJxem1EOVVBUEZRcmF4Q0hqa0xsejFTYnNYcl9HbWhMenRlY3ZkUnc3NHpPbDJZYy1KbU51cTd1M3ljRDZULWwyRFdVYkpLUGhZd1dYeG5xTGh4ZmVDYWx3RVVIN0cyT2U0UHUzQV9fcUNlYnVQU2ctdzhBYlE5LWs2SkFMQnk5X1RySjhKWDVCQU91UnlGcGUzSUdtQzl4MEhJWTRleXFyalRmNVBpRTgtMHNuYnZiRGVrLU1nUnhEaG1vZ2liY3Z6aEE4SGNqZ1dOVkdEUkxIeElHT29kYjRBdzFhaFFNcUdZbDQ1elJPclN2YW9mNTVUcmMzVDR6Smo2VjdSbjgyYlRIQjBUSlN2blprWUMzRkJkYzZFb19jSEkwYg?oc=5",
+      "pubDate": "2026-10-24T21:57:16Z",
+      "source": "Google News: 生成AI",
+      "category": "画像生成AI",
+      "memo": "‍‍‍AIイラスト・AI画像生成サイト｜無料で自動生成 ai 小豆島町",
+      "summaryLines": [
+        "‍‍‍AIイラスト・AI画像生成サイト｜無料で自動生成 ai 小豆島町",
+        "制作現場の効率化と、権利・品質管理の両方に関わります。",
+        "まどかAI観測所では、制作工程と著作権対応の変化を見ます。"
+      ]
+    },
+    {
+      "title": "‍‍‍NSFW AI画像生成 ai - 小豆島町",
+      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOeXJNOU9ybHRsZU1qQTZLb29VLXllRHpMZEFfRjNJSjJGUnYtN3RBLXRYTF9KQk0taTV0VlBYaE9aUFhBaFg1RklnOTdQckplcFdXNWhvUlJfOEp0R3RMM195aGpBcXVwXzR5Qmd6NjgwRlpRcktNRnlmYTUwTlJ2Um5aVEt2X2ctWmtNTF95T0N2SjU2OUw2VV9nWkVTcXFGYVJ1b084cXRQbWFmR3ppdFhtSVFOTm1vQVZ3WmQ3Tnl2SUF2ZlItY3NfeHBQd1poQmJuckdoN3ZwMkVZN0FkbEtrWTg3UnViV2pLc2JyaWpHRTNDc2QwS3Rfa0VYNmhvMkpQV1VkX1JqN2NoeDE1QThrSkw5ZnlKSlU5VjhjM043NlFKLWRlVFVheDZXZzNOeERMeTNIeTVaVi15Umdoa3lnQ3QtR3hWU3ZTeGpYUGlqMmxJ?oc=5",
+      "pubDate": "2026-10-24T21:46:30Z",
+      "source": "Google News: 画像生成AI",
+      "category": "画像生成AI",
+      "memo": "‍‍‍NSFW AI画像生成 ai 小豆島町",
+      "summaryLines": [
+        "‍‍‍NSFW AI画像生成 ai 小豆島町",
+        "制作現場の効率化と、権利・品質管理の両方に関わります。",
+        "まどかAI観測所では、制作工程と著作権対応の変化を見ます。"
+      ]
+    },
+    {
+      "title": "‍‍‍動画生成AIでアニメーション制作を手軽に - 小豆島町",
+      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPS3ZIM1VDRl80RHNPX1ZSdVBfenpFdmFHUHFJN19uazBfOUxlWUZ5U2gzbk5CWEZPRjRvTTVBX2RFcGMwZmZ0dFQzUktUT3VvQW9pZ1BNbG9MdGQ0S1Bzay1fR1JCeU9JSi1wZ1ZiNVl2UWh5bE1YVEVyUXY2WThHUzAxNFVVNllubjd4V0hxc0dyblczSjZxMFNJSGJJLWlWV0NWeWprVk9yeWlxMWpfM3RmZ1NodXdKS0VwUEh5LXBNVGRaYmhNNzNVNUY0SEJCVUlVNVRicGVrNlBTUWliQ1VvdnJDamY2b3BNMnZFb25jS1poOWJ3aEJ2Smo3WFQyY3puUXlOZWp6SFdBUmJfdTl4RHBwOWhsZlhpQzRmQlU4ODhSLWdvd2ZweUpMbWVrUlBaaUZyQWZ1dnJ1R0hkSjAzdXIyTkhMWHFINk9sNERadlBJd3hLVmZjY3lWa2xET2I4TEN5c2wyb3dsMDloemFzXzZZOHQ3ZlVZRw?oc=5",
+      "pubDate": "2026-10-24T21:39:06Z",
+      "source": "Google News: 生成AI",
+      "category": "動画生成AI",
+      "memo": "‍‍‍動画生成AIでアニメーション制作を手軽に 小豆島町",
+      "summaryLines": [
+        "‍‍‍動画生成AIでアニメーション制作を手軽に 小豆島町",
+        "広告、教育、SNS向け動画制作のワークフローに影響します。",
+        "まどかAI観測所では、動画制作のコストと信頼性の変化を見ます。"
+      ]
+    },
+    {
+      "title": "‍‍‍動画生成AIでアニメーション制作を手軽に！おすすめ12選を紹介 - 小豆島町",
+      "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxPZ2oweEpKcW5GLWRvellOc04wc0xaY0pfbDFmX1I3Rm8tWFJzVXlYeHMzOE9FVnNTMkVtTmtKaExxVkpNdFo4ODJhd0sxZ2dSWW1fM01OdFJGUkZrUU5jWFVFN1ZNTGk0MWNBX1ZQbkkxNnRod1Z1Smo0cTcxVUxmcEZ0TWlsYjJheFB4aXZmd2xMdXE0UVEwdl9uR29iSzBxUWltY1R5Sjg4WW1wSS1TU3dLTWxvUmQ2eHdOM1BOcXJSNlIxek9nQzc0WUo1Si1rSjRQNWhkTV9jRWYya3RlVjQ0Z3U3YVRNcXdEZkFrZHA1QlJpdUxfOFJQN1BzYjhHSEIyT3ZMbERweHZaVHA3OXdXTHVrX2kzSUEyVUFxWG5HRFF6OFdsVFJCTWtPRkU4WUMwN1lpM2hnLTR1T2dvbGNReGd2Q3FocVZJWFpOaWhGUFpyY2F6Y2MyRkFKaFliR3plMjFndUlPWUZ3YWhZbmxiSk5Tekl0TXB3ZHFhQk13Q2k2UnpSSUZRZFBjVl9Db0xPYUpyMGtRdEZNbmc?oc=5",
+      "pubDate": "2026-10-24T21:39:06Z",
+      "source": "Google News: 生成AI",
+      "category": "動画生成AI",
+      "memo": "‍‍‍動画生成AIでアニメーション制作を手軽に！おすすめ12選を紹介 小豆島町",
+      "summaryLines": [
+        "‍‍‍動画生成AIでアニメーション制作を手軽に！",
+        "広告、教育、SNS向け動画制作のワークフローに影響します。",
+        "まどかAI観測所では、動画制作のコストと信頼性の変化を見ます。"
+      ]
+    },
+    {
+      "title": "‍‍‍生成AIエロ画像・エロ動画作成ツール10選｜初心者向けの無料 - 小豆島町",
+      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNMjJQOExvZzN1VHVHNU9NVEVNNkI4THZTbmJGY0dkeHFPWXY0bVZMaWprRnZBenZiNjR6N1JTRnFSYnNJNUtCTFJILUVTUzBONXIxV0pEd1hnZ3dackx1bV8yM0prM05DRnIzUS1hS0NnblFSMmRIT3R4cUZrc2dhR2J5Ql8zeGlKc2tGVW1YXzZpek02b05YT05rMkx1cVpJakRJWVU3ZnBzb0F5M2p5YW1ieHhRY1BxenpRaEQzTlg0b3h2V1NUeDdvREpCeENmeGp3ekVPZUZXZjZXYU03d0dHUzhDeG1LZEFmTkZIQkp2RW42cy1Ba3daZE90bjZvQzR6eUdfY1luNTFNZTFKdm83VzBkbmJiaTZ1al9ENDNvN2ozdzB4LTRSSXI?oc=5",
+      "pubDate": "2026-10-24T20:28:07Z",
+      "source": "Google News: 画像生成AI",
+      "category": "画像生成AI",
+      "memo": "‍‍‍生成AIエロ画像・エロ動画作成ツール10選｜初心者向けの無料 小豆島町",
+      "summaryLines": [
+        "‍‍‍生成AIエロ画像・エロ動画作成ツール10選｜初心者向けの無料 小豆島町",
+        "制作現場の効率化と、権利・品質管理の両方に関わります。",
+        "まどかAI観測所では、制作工程と著作権対応の変化を見ます。"
+      ]
+    },
+    {
+      "title": "‍‍‍最強の無料動画生成AIツール5選【 2026 年版】 - 小豆島町",
+      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxObHdHZDM1c0NuNXg3ZU05blNkdmNtODV3anJ1dmR5TEpHWDFUcGZGcXFZZ2dCV2VxcDhCb1FOSjcxWTJ6bHQ4eXotVzJ1VnQ1YlFqajh4d0plbkF5bjdsWVVuN2RFU2M2UDZROXVBUXVWZ2cySzV5QVZ0VWdPRWxzRXdvLTVaa3BXR3ZJZWJtRjVtUEdWeEZ1TDh6WWl3X1NQWTdjSXRYZEdRWEFqY2pORWZsaFVtTXZUY1A2ZGJGc0M0cF9LdjNFV1BqWlQxRHdOY05zM0pHMGlOdWhnMm9pV29EMTMxMXdnXy1OekFSX2g3TjJrM01FbFh0R215bW9wTW4wTTFjOTBPZi1PYmNJbWxOZDZqYkR2VGkzdVFsRTFZS0ZDU3hBVmV3?oc=5",
+      "pubDate": "2026-10-24T20:25:40Z",
+      "source": "Google News: 生成AI",
+      "category": "動画生成AI",
+      "memo": "‍‍‍最強の無料動画生成AIツール5選【 2026 年版】 小豆島町",
+      "summaryLines": [
+        "‍‍‍最強の無料動画生成AIツール5選【 2026 年版】 小豆島町",
+        "広告、教育、SNS向け動画制作のワークフローに影響します。",
+        "まどかAI観測所では、動画制作のコストと信頼性の変化を見ます。"
+      ]
+    },
+    {
+      "title": "‍‍‍AI彼女 画像生成 - FC東京オフィシャルホームページ",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNM2FWb2IyWG4tRloxQXFHelRMZW5uRXFPZ3I2c3pndGp3a2h0c05ZQmRrMElRbEpOREdMWGkzUWR4WUt6M1FPOExLUHZwQXlqS0dKRkRfNlpYWWVpZjMxMDBBaG1NaU1xMTZSNTBFXzZSRjNLaWsxdDBCSVNBc2M4Sk0yT2lWT05Bc1Ayc0VWN09hQXpaNVdYeEFMVUp6X29OOEhwZ0NMdmRLb29lTE9BdkM5UmRCZ2pEa05nb3hLeWR4TzNGSmEzS1MweTZpYzZacHdlRFZYZ0pNMHFxQXUtWTcydm5pNVN3Q2M4dWRCd0hKSlBCWUItQ3gxeFA0Z0FaQURlOGN6dWxTUVBNUnc?oc=5",
+      "pubDate": "2026-10-24T20:23:00Z",
+      "source": "Google News: 画像生成AI",
+      "category": "画像生成AI",
+      "memo": "‍‍‍AI彼女 画像生成 FC東京オフィシャルホームページ",
+      "summaryLines": [
+        "‍‍‍AI彼女 画像生成 FC東京オフィシャルホームページ",
+        "制作現場の効率化と、権利・品質管理の両方に関わります。",
+        "まどかAI観測所では、制作工程と著作権対応の変化を見ます。"
+      ]
+    },
+    {
+      "title": "‍‍‍AIポルノ・ジェネレーター - AIが生成したポルノ動画＆画像 - FC東京オフィシャルホームページ",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNS2xXd1hWTHhtd2xpTWRzR1hQSHFmTUlTSGtaUFVoWlJ0VndwLVVYeks3VTJOTnlPOFpQbDM2bTVUWlhHZGRhcEN6WWhnZ21OYmx5ei05NFNlVlJmeU9xY213SUtfVjNMbEFITEw0VUJLbmF4X29jc1FIWThTcDR4Uy1lc3ppVkdGZldnQkw5ZmlXZ0tJRlVoc1JVXzZ4OW1wX1NXM2k5cDJXclowRVBRLURlZFd1M3V1SjQ5b2tPMDZ0djF2NW1JNTdtaG1PLXZiQlFiREp2N0FKcUxzQ2VGcm1sU21majJJYVg3cms2WDllYzA2T01tOXRjZkpCNC1TaDF3LVV1MTI1bUpF?oc=5",
+      "pubDate": "2026-10-24T20:20:27Z",
+      "source": "Google News: 画像生成AI",
+      "category": "画像生成AI",
+      "memo": "‍‍‍AIポルノ・ジェネレーター - AIが生成したポルノ動画＆画像 FC東京オフィシャルホームページ",
+      "summaryLines": [
+        "‍‍‍AIポルノ・ジェネレーター - AIが生成したポルノ動画＆画像 FC東京オフィシャルホームページ",
+        "制作現場の効率化と、権利・品質管理の両方に関わります。",
+        "まどかAI観測所では、制作工程と著作権対応の変化を見ます。"
       ]
     },
     {
       "title": "AIポルノ・ジェネレーター - AIが生成したポルノ動画＆画像 - FC東京オフィシャルホームページ",
       "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPUGJZODJod3RCX3d1Yy1IMEZSWFM5NUpVVWhTeVFtbU05cHVnLTlJaVF5d1J4NzZqYnEtQ3JrbTlMdDNCdWs0SXAtMDc1NFFUQXZWWmRIdFlhcnRseEhOMFlFTUdBMEZyN01qV0NhdVVVYmszQ0M3NUk3SXE0UTRLTURtSnpScWFfVFpfY2FLM21yX3VKYXpDbFMzd0dNeVAyRU91Ukp1QzczRGxHSWhsWFI2OGFwaF9OZzFPU0xEZi1RSDhNTEotTDBONmd1aTJLRXkweWFQaXE2RlllaUszUDVPaktXOXcybmVQMTZwV0txWkRudTN1XzFTNVByZDhLY29BV2pSeTZmR0dTbkwxQzkzWUJyaHJsQTlRNDVPSkh5OGhYcFpDQTQxZ0dfci1veUNxU3hKUjBkX1NfcVY0ZTUtck1wSjVXYVcyYXpETkJsWllOY1VlbzdoLWxXRFp6U0UtUnY3RFlueWFSTElicHhtaXpmZTFY?oc=5",
       "pubDate": "2026-10-24T17:28:38Z",
-      "source": "Google News: AI",
-      "category": "AI全般",
+      "source": "Google News: 画像生成AI",
+      "category": "画像生成AI",
       "memo": "AIポルノ・ジェネレーター - AIが生成したポルノ動画＆画像 FC東京オフィシャルホームページ",
       "summaryLines": [
         "AIポルノ・ジェネレーター - AIが生成したポルノ動画＆画像 FC東京オフィシャルホームページ",
-        "AIの使われ方や競争環境が変わる可能性があります。",
-        "まどかAI観測所では、どの仕事や生活シーンに広がるかを見ます。"
-      ]
-    },
-    {
-      "title": "AIポルノ動画生成 - FC東京オフィシャルホームページ",
-      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPdHVYOGdpY2lPdUphcjVYTTZmVk1DYmpuWHZLdVJSQUhmcGg1WVRNQmZrRi15ZU9kVDd1V2dZQlplQTlJejd3aEV5cXVUN1FOTE9qVEd0SVR3aVhvejY2LWY3S3Vaa2VfN0FBZHd2VHJCUWNXYkdDaUZTeE8tYm45alpTRHR1ekVyeDZ3VEgzaW8yMnRSREw0al9RNFRYbmw5TzZhdXd4dXZMaXZnUXh1T2lyc21mOGotbmJGekJMaENrN2VmRzctcFhkQzBqUnE0TmIzWjFUMk0wb1NGeHdZTWpDVXh2bzNSRFd3c2hNT25ycGViajRwczE3S1puaFFLb2hvY3l4WlRIQWVHczM0RHI4bGlLT2x4UWt6SFBxbDRZQnFWMFlNOHVpeDhVbzVTTGVCc0VSUWVUakpRemJMYm1hLTlYRDJ3QmFaV1k1WHZQbTc3NUF1cF9xUFU3RHBFMzQyVnRtWjU2S1V5RTJ1czNjRG5ZVzdh?oc=5",
-      "pubDate": "2026-10-24T17:28:37Z",
-      "source": "Google News: AI",
-      "category": "動画生成AI",
-      "memo": "AIポルノ動画生成 FC東京オフィシャルホームページ",
-      "summaryLines": [
-        "AIポルノ動画生成 FC東京オフィシャルホームページ",
-        "広告、教育、SNS向け動画制作のワークフローに影響します。",
-        "まどかAI観測所では、動画制作のコストと信頼性の変化を見ます。"
+        "制作現場の効率化と、権利・品質管理の両方に関わります。",
+        "まどかAI観測所では、制作工程と著作権対応の変化を見ます。"
       ]
     },
     {
@@ -132,19 +288,6 @@
       ]
     },
     {
-      "title": "ai 画像 生成 サイト 規制 なし {VFT01A} - 小豆島町",
-      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOZUkzLWhkcmhxeU9oMVBUX0JsMUxwaVRreUpVQXJWTmpubFBTZnR4cHJMVWVKcXVmTWdoY2M2SWhPN2pGMURPSkFicEVxMndtSW1TWm9FYmoxUVBEZHQ2d2RRTmxGdFlEWVdJYTh5Qjh2c3p3a0FtNEVQdTI1VTU5Y2xtNDBpZXY4UUVBUk4td2dhUXBCX0YtWHVZRUpmdE1GSGp1VF9mTV8yb2tJME1YMDlwSU5ocnZpbG40ZGhHOFhmTHRUNTNIeXg2SHdidXVvQWdsOU9Va2NVQUdpUFlzT1VLYTRubkJBb1p6aldlYWRRNHRpNUdPQWhrWFYzbzVRQkxBS0lTd3ktY19Dd2tqRENpdi1YQXBsZnpvMWxlak16dlBtVHgxV1VBZG5lYjVFMGp5dXJycUQ0T2VmYmJlblZYSFJOU0VXeHJQWUotZFhIendjOGl1bUNFTWcxbTBYSHBTbXVqMFctV1k?oc=5",
-      "pubDate": "2026-10-24T13:37:41Z",
-      "source": "Google News: AI",
-      "category": "AI規制・著作権",
-      "memo": "ai 画像 生成 サイト 規制 なし {VFT01A} 小豆島町",
-      "summaryLines": [
-        "ai 画像 生成 サイト 規制 なし {VFT01A} 小豆島町",
-        "AI利用ルールやクリエイター保護の実務に関わる論点です。",
-        "まどかAI観測所では、実務で何を変える必要があるかを見ます。"
-      ]
-    },
-    {
       "title": "GPT-6 Astraと同等性能の中国製モデル「Kimi K3.1 Pro」が登場、2026年11月4日にモデルを無償公開予定",
       "link": "https://gigazine.net/news/20261024-kimi-k3-1-pro/",
       "pubDate": "2026-10-24T11:50:00Z",
@@ -158,49 +301,10 @@
       ]
     },
     {
-      "title": "【AI動画】美女とセックスマシーン - 小豆島町",
-      "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQSENPeTVKOUt0bmNqcFdwVGZoUDV2NTV1ekJ5LVJMT291cHFvVHVROXotQURiVjdIRmF6LVJGQ3ZiUVZCWWRqTjEtaVYwSEcyREctRTgzLVZXTC1abEtlTW5Oa2xhUnRtTmZZcW5UWDJtam1OSmlIclQ2UDRPcDVvMDFJU0pTcWw2Um9kbHRFekVXTGF0anBRZTQ1Szlxek8xOXQyYTdJRkpFY212clZzWGV4TklmRFZuZ0hOT2RhdmpPckVtV3pCbm9Lc204dkQ5WU8ydFYwaDFoRTBWdVdGWms5SEZZOXFBcmNULVZYOVpRbkRpUWFIUWstd1ViQnVBd0F3cV9CanJ5djUtOHVKOFJVMGZEeFNuU2V6Njd6RTRjOVN6ZHBwckNQbHJEUmExc3hMMU0xMEtQTW9nOWhsbW92QW5sUm90cVI4QmloSUwxeGsxbDkyeXA1RURXLUhNWm1ESDRGZlZnYzJtNmR0MUUwUW0tV01xMWlkVlVmYWlYQ1pOVGRTYkxua3hJSFFUVmhtRE9ZUQ?oc=5",
-      "pubDate": "2026-10-24T09:42:58Z",
-      "source": "Google News: AI",
-      "category": "動画生成AI",
-      "memo": "【AI動画】美女とセックスマシーン 小豆島町",
-      "summaryLines": [
-        "【AI動画】美女とセックスマシーン 小豆島町",
-        "広告、教育、SNS向け動画制作のワークフローに影響します。",
-        "まどかAI観測所では、動画制作のコストと信頼性の変化を見ます。"
-      ]
-    },
-    {
-      "title": "AI NSFW徹底解説：画像生成の実用ガイド {VFT01A} - 小豆島町",
-      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNcS1nTWNRSjAwRlUxOW5NckZCakduRENqd2pxcllvWDdmLXVpWGpPSlAyLW9WeWd2aTdLX2lMbHRNbVlDT0NFTkN2cWdBeFNYNEFZY3lsa3QyanFqVURxUkVMUi05enpBTG9uSkhHcUZUSkRJSVUyYkpGdWc4SmMwX19MR04wZGpaYUU2TW9xZzJUOFlzUm9FUDZWYU5OZ0N6S0RzZE1DU3FKaTA0SW5sWmt4S1F4Q09LTG1qd0gwdllfa0QyM21RZy1aNVhVRnhuTi1WS09BeWlDZGZvQUZnaHBLalNUTXFlanNMZnpGaEtCd3d2TXFDSXFGRkZLaGlOZGFYS1NfcXRtOUJYZVpLVTJCUVlBV0ZPbEhvWUR2Vm9uTTlQRjd3YW1hSjBRQzVwcVZ2alV5U1JQME8yU1I1b3ZZLVFRUmJhZnpRS2ZtR0YyYWwwaEZlQjd2d3NPenR6bDZPRFVOd1lScFhBbk1yOTJ5V0dkNkpid3NtVlp3?oc=5",
-      "pubDate": "2026-10-24T09:38:12Z",
-      "source": "Google News: AI",
-      "category": "画像生成AI",
-      "memo": "AI NSFW徹底解説：画像生成の実用ガイド {VFT01A} 小豆島町",
-      "summaryLines": [
-        "AI NSFW徹底解説：画像生成の実用ガイド {VFT01A} 小豆島町",
-        "制作現場の効率化と、権利・品質管理の両方に関わります。",
-        "まどかAI観測所では、制作工程と著作権対応の変化を見ます。"
-      ]
-    },
-    {
-      "title": "生成AIエロ画像・エロ動画作成ツール10選｜初心者向けの無料 {VFT01A} - 小豆島町",
-      "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPVXFOUGFrNElXd3hrOEZ6aUM2UjBqZXRaYnNLcFg3MlJrTWRTQ0FyNmoyUjd3MW54TlRRQWhMSlZPVENyRDY4ZUJsRkVfYjVFdlVRbEdsRFdxS0c2QjAyMU5ub25lWkkzSTZIYXNFTGNjd2lyV2JUQzdoS0tsZ1E4MVdyQmd3dXl5ZzEzRjVIQ0piRFd3Y0trdXRETldNRmVzbjcxLTE3TVFBbVdjVDhsSU82MW8wcHB1VzlqX2l4a0gwVTFBdXBGS0FvNlJEMjI3OWFuajhJV2JRZFlMbkk0SEdUNmFFbUdWendQeWtYNmZ6UWhrc1ZRem9LSURnckVGTEF2STdmMUhXLVpkMnRQazZlcHE5LTEzbTlnNy1uT29QZ1FFQndRX1BueVZNVm95YmRldzNxTWE3Zy1TU21PLVVqa1lKSGpRY3JVX3FKN3lLRXMxSTZ4Rkg0Smd1dVhiWVIzRkw3dlZFYlFieXNUSXh6STRvdi15UzJRaURJRnNOUnhaaXJNZTQyQjBMYWxhWWNBU1BvR19qMWg4a2s1ejRlSWNxbFU?oc=5",
-      "pubDate": "2026-10-24T09:34:17Z",
-      "source": "Google News: 画像生成AI",
-      "category": "画像生成AI",
-      "memo": "生成AIエロ画像・エロ動画作成ツール10選｜初心者向けの無料 {VFT01A} 小豆島町",
-      "summaryLines": [
-        "生成AIエロ画像・エロ動画作成ツール10選｜初心者向けの無料 {VFT01A} 小豆島町",
-        "制作現場の効率化と、権利・品質管理の両方に関わります。",
-        "まどかAI観測所では、制作工程と著作権対応の変化を見ます。"
-      ]
-    },
-    {
       "title": "無料 NSFW AIアニメジェネレーター — エロ動画生成ai {VFT01A} - 小豆島町",
       "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOZER0NXJGU2VnTC15UzlVMjFfcDlTMlQzbXlqTFlkaHZDS20wR0RtMy12SS1YcTh5WG1xVkVWUUdNTENQZzZORXNvcGpLc05SMmVDQTNYSzk4eDdVWEl1ZmxSNmYwQndmUG5pc1l6LUswMS1kMXh5N1dZVXdYZTNJQlFDV1FRaTcxLUtaRUFKNkZXVVpXbDZodXhHRHgzNmZpM1MwQzlVeUJPUWhZUmtGMjU5NlRaemhKSzlsdWFhQTJTTDJaemdlU0h4SjBvZDJOOGYtNnNDcERNNVFkYzV4OTNjVTdzcTRROTBmajV0a05Fczc3c0g1M25XVVNfem1kRGp5OGRDTC1WLTZXNTVuemJ2WGo4RGlYdEx1MG40VU5iVldScG84T2lvTTd6ZFVGajRhRndFSHJNekUtR2ZwQ2kwN1F1SFotZjFwVE5ETDJERHpBR2c1eTdtWEw2OG5BTkVfVDRSWWhvYkRpbTZWYVRBWlhVcHFaelg2dGdPNA?oc=5",
       "pubDate": "2026-10-24T09:34:01Z",
-      "source": "Google News: AI",
+      "source": "Google News: 生成AI",
       "category": "動画生成AI",
       "memo": "無料 NSFW AIアニメジェネレーター — エロ動画生成ai {VFT01A} 小豆島町",
       "summaryLines": [
@@ -210,94 +314,16 @@
       ]
     },
     {
-      "title": "AIポルノ・ジェネレーター - AIが生成したポルノ動画＆画像 {VFT01A} - 小豆島町",
-      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxONGJ3aXNUQ1FvNHlPUmdsaUY1S1lDdV9UX1VqalRMX3hhT2FoSjVDYmIzclpiZEZtbWZpbklkM2NjOGh0UHg5ZXVnM2dxSzM1cnRLbExBR2pfNVprc0R2XzJ6T1I3MG51dERqenRib3ByUU9HOVlqWG11dTVaUXZIWmUyS0dCVFVpMGh0Ui1nRXF1YUhnSlFRbEdxaTdrSURnNVlUNkdPSl84bUY1RHBiaW9WSlpuRWVaOVZ3QU1ld1NPdEhpUEdNQ0ZQaTUtb3FJeWFaMFB3YUNqb19oQjVMSnBYTVBjOXRXMTgyX0poamx4eDQ2cDZCU29DV2RhRmZrdnU2OTdIbWt0X1h1NVJYQXBQY29aMzhaQVNJb0hUXzg5b3RRdzVfTnVDcWpCTHhVYjdOSWVmU3dqVWJMRGE2bWxJY2pPVzEyVVc1UTYtREl0Z0xoc1Qzc1ZncTFIVGpnMm05MWdJckxudjhtSXhTSHluV1dZcGxacW9ZQ1NiQXJYei1fYnBV?oc=5",
-      "pubDate": "2026-10-24T09:32:25Z",
-      "source": "Google News: 画像生成AI",
-      "category": "画像生成AI",
-      "memo": "AIポルノ・ジェネレーター - AIが生成したポルノ動画＆画像 {VFT01A} 小豆島町",
-      "summaryLines": [
-        "AIポルノ・ジェネレーター - AIが生成したポルノ動画＆画像 {VFT01A} 小豆島町",
-        "制作現場の効率化と、権利・品質管理の両方に関わります。",
-        "まどかAI観測所では、制作工程と著作権対応の変化を見ます。"
-      ]
-    },
-    {
-      "title": "画像生成AIおすすめ比較【2026年】 {VFT01A} - 小豆島町",
-      "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOTk9YSEtGWVl5alNodldaaTZRakViQTFSZEJrb2VUaEliX3d6Zmg3NUwxRjNiSXlfQ1EwVWxvXzRaaWM3RGVlalk1UWtSVGt6OTd1eC1VTklXQi1ReHJsX1pMNUtHSURySzliSVVXTVdySmN3bHVrT1ZfQXRPLVVIU1c3V3ZtN0MzblhiaktyTW45Ymlnc2JuM3QtY3p2dk42elUxN05Eb0pLYUJJSlZfdVBreGkwZkkzN3NmQ2JvQlBHa2owaGhmLUVmbDdlaVFCdnltSXBjY1Atd2k4RG5rSVFxWnExdFl2Q0dOOG9BV3g2UVE4MFMxNFlXRjNSSng2Q2JxZHA5OGJQbS1xVGp6NGJjc0Z5R3NmV0U4bEVfRGhoYUx2MW1ZQjl6Uzg1YjFrU09RbUp3SXFlTWNZczVMc0pRbVpyLWc3a1VsWl96U09EWlUzLWFsQ3MwNUdPcEJOS2U3Ymh0eVFQa1ZZTVE?oc=5",
-      "pubDate": "2026-10-24T09:29:22Z",
-      "source": "Google News: AI",
-      "category": "画像生成AI",
-      "memo": "画像生成AIおすすめ比較【2026年】 {VFT01A} 小豆島町",
-      "summaryLines": [
-        "画像生成AIおすすめ比較【2026年】 {VFT01A} 小豆島町",
-        "制作現場の効率化と、権利・品質管理の両方に関わります。",
-        "まどかAI観測所では、制作工程と著作権対応の変化を見ます。"
-      ]
-    },
-    {
-      "title": "AI 2026 ヘンタイAI画像ジェネレーター性能別無料ランキング {VFT01A} - 小豆島町",
-      "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPVXVmR2hBdzhUaTB4NXoyak8tM1dvaEUyQmZVMXUzWkZRVkdTTmVQTFcxQ1FSVEhKU21YTGlic0lpMVFxVlRERkpldnFqaFBxRjhuWHdfREQzYmV4cUN1Wi1fU0F0YzluMHEtcjQ2blJkYWxPdnpJcEZSNDZKU1Q5MUp4UFZDcVROSHozRThzU29seW5PTU45elhPMHJVN2RnQThPSkRiWGF3cUl6eXIyaGFhdWVpR3NrMW9ZOWxlNFRRbzUwb0Q3OGZDRm5vNkJJbElIS1JPQ0JYRmxxQUhYQmszZ2NnRFNjZXQ2MjVXYlQ4RTRna1VackUyOHRJby1wYWpPc195TENic2pZSFJKTU1XTm52RmMyaDc0UE9EZUlDMlpXZzUxbnJKQVhMSjM3eHdPa2JuQ0FoMmtJb09nX05oWTRfTjFRVUR0b255bWg3cVNtYmxZUExyX182N0hXZGtrSm11S3djdjZlanp1OGN5ZUkwVDkyazdyVGdSRmsxSnFVS1E?oc=5",
-      "pubDate": "2026-10-24T09:28:41Z",
-      "source": "Google News: AI",
-      "category": "画像生成AI",
-      "memo": "AI 2026 ヘンタイAI画像ジェネレーター性能別無料ランキング {VFT01A} 小豆島町",
-      "summaryLines": [
-        "AI 2026 ヘンタイAI画像ジェネレーター性能別無料ランキング {VFT01A} 小豆島町",
-        "制作現場の効率化と、権利・品質管理の両方に関わります。",
-        "まどかAI観測所では、制作工程と著作権対応の変化を見ます。"
-      ]
-    },
-    {
-      "title": "無修正AI画像動画生成ツール {VFT01A} - 小豆島町",
-      "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOSk5mSlo4bkF2MEh4MENlenEweFFzZGpZNFN2ZEpSY2ZPRjk5NFI4SVVrd3p6aDFGRnNvb1c3TVFCQS0xWTlGWG1kSkFMSm1UVWNpX1U2RUszRk04cDdzNXpyUHpfN0Q3SFNPZWNCWExSeDlOZnlEd3ZKQWRYdXFtSXdqbnpuX0V2NFdUaEtkT0RLYndKQXpwTUc2eWRkc2pmQmIxb2d1ZktfRTUyVmpNZUZ4QVJEc3ptYmI3c1dHX1JDVG1iRG9qbmxpcWtIdU55WTZ6YjF4VC1hMkN2WGU0aVQ4QzZucTEzRFJfMmNJTHB2a3hRcjNuNkNYczBLQmFTdGJzdzM0WVp2UEZpcnliNWdrRTNnUTFvcVlmTmI2VGl4U1lScUlnWXFORFZEeVp3VGtYcWxoaFRzM0FiSUduRGo4d0ZTcGotNWJpY182d3kzdHhZVTc0V3NNdWMwTDlNN2Nsc2xfQmJ2Z0ZJTENFRDln?oc=5",
-      "pubDate": "2026-10-24T09:24:34Z",
-      "source": "Google News: AI",
-      "category": "動画生成AI",
-      "memo": "無修正AI画像動画生成ツール {VFT01A} 小豆島町",
-      "summaryLines": [
-        "無修正AI画像動画生成ツール {VFT01A} 小豆島町",
-        "広告、教育、SNS向け動画制作のワークフローに影響します。",
-        "まどかAI観測所では、動画制作のコストと信頼性の変化を見ます。"
-      ]
-    },
-    {
       "title": "エロ動画生成ai {VFT01A} - 小豆島町",
       "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQMjdfSDJZblpiOWJJWjk1a2RscGFtV1BtaFE5VmJhallsNE9iQVlZWDRkYkVoR3ZjMHZvLVRZS0d1MGVPOTlWRTRuaFhiYUNfWVlUTkJwdlNQUkNudDl5SGtLenEzU0VTUXI1aW5ZNE1VTFA2Z1dfRkh0XzFvRUczdnVOSVgwcllSUzRSRFBBTlJNOWxRb0tXVzc4bzVTWHI2YVBpdDhkRm9YdmwtM3dvMGFodVI1aUdkY2xndmJqSy1vZUdocTVxMWd5b0kxXzZKRjdGbXBCYWZRdG1nVXhMWDNKOXFjaDZ2YTZSTW5KSjMtVXpTMU1mRGpxV1ljQ1p5aWtoVnVIRTE3VnozYzl2Y3llWE5yaXhmRUZIWGZoZzExOE1YY01QN3VKSGQyVHBVTFlZdll5ck1Ra013QUpCaVhwY3R2VFlVNWtXWlQxYw?oc=5",
       "pubDate": "2026-10-24T09:24:23Z",
-      "source": "Google News: AI",
+      "source": "Google News: 生成AI",
       "category": "動画生成AI",
       "memo": "エロ動画生成ai {VFT01A} 小豆島町",
       "summaryLines": [
         "エロ動画生成ai {VFT01A} 小豆島町",
         "広告、教育、SNS向け動画制作のワークフローに影響します。",
         "まどかAI観測所では、動画制作のコストと信頼性の変化を見ます。"
-      ]
-    },
-    {
-      "title": "無料AI動画生成 {VFT01A} - 小豆島町",
-      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNYWJ3UlBrVWFoTlk1LXIwN0tnaUJncDNvWENTcXZEQndVVnYzWktYSUNQSV9xNWFuaWQ1Y3pGbER0aWh1UHpnZG1OSDE4UTFBcU14M0k4MnRQaDRCcnNYZmF6cEZFUnp5aGhQaFZrNElQNVBlRzgyLWNUQ3VSQ3A1RWhlbXN5NnE0dDFpNl9hTmpvcEtZR3UtbVlQNU8tY1hXVFNOX0hJaHNHWHZacVhFR0FJWkk3NDAzZkpLSnZPTXlSY01zUlV4QTFlN3hSdjM1ZEtVYW56UXdrS3dMaExJSTBKRGdWY3huNk1Ld1ptc1kxLTA3cmVnYWprdWdaYUlfMXRhUXYxQ1ZwdHVpeEVHekJwVXpxOFQ0OV9DeFRrTnVYZnliNXptUlFmdjRRbjR4c1FzQnNCOHZ5MU1uRGdXcDNhNXNDeWlXTXRuSHZGLTdwemtNTnc?oc=5",
-      "pubDate": "2026-10-24T09:23:57Z",
-      "source": "Google News: AI",
-      "category": "動画生成AI",
-      "memo": "無料AI動画生成 {VFT01A} 小豆島町",
-      "summaryLines": [
-        "無料AI動画生成 {VFT01A} 小豆島町",
-        "広告、教育、SNS向け動画制作のワークフローに影響します。",
-        "まどかAI観測所では、動画制作のコストと信頼性の変化を見ます。"
-      ]
-    },
-    {
-      "title": "AI画像から動画 NSFW - 写真を無料で動画に変換 {VFT01A} - 小豆島町",
-      "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxQV0llTDNmSHVFc1hyNWMtcVBzTHFKenNNMTNLam9tQ2tsOG5aa3JjNDNwN29HcHlLYXFnaUdDdUp2b2RSS01vbHhKelNXNkY4YTVZdWUzck9RUEs5c2YxWV9pblNqQ0ZkOEJMN013blU1M2R4OEIwZmJvenhHeW5wVHA0aFFuWmtwLXdacE1GLUhHQUtMd2V3YXpLNU1FN0FIQTlSZFBqeTNmVjJWWlhudTJvc1BzdnBaM0Y5ZU55ZWwxZTFBbVNLOHptazF1Mm9nWDY3cVluSEFJRkhockR4UElvZTl6SVZlN2N5blNxV0JldmpUYUwxTFFZX2I4VFdqWUdWdGhfX0NDbFBGVDdUOEp0WnI0eVA1WW12QWNQRzlMbnZ3TmtpZVo5TXM2eUl3b3lPTXEzMDg3MW9Bb051Q2UxaWVEU201VjRxZ2pvUG5CQ3BSXzhkdWJ2dWZFVHpQZC1YZ3BEMTNmeVh6S2syeWoxU2F2ZFFyZzJkQmFoOHdkeWM5bkpiSG56c196UXho?oc=5",
-      "pubDate": "2026-10-24T09:23:52Z",
-      "source": "Google News: AI",
-      "category": "画像生成AI",
-      "memo": "AI画像から動画 NSFW - 写真を無料で動画に変換 {VFT01A} 小豆島町",
-      "summaryLines": [
-        "AI画像から動画 NSFW - 写真を無料で動画に変換 {VFT01A} 小豆島町",
-        "制作現場の効率化と、権利・品質管理の両方に関わります。",
-        "まどかAI観測所では、制作工程と著作権対応の変化を見ます。"
       ]
     },
     {
@@ -314,62 +340,62 @@
       ]
     },
     {
-      "title": "Canvaが自社開発AI「Canva Craft」発表、画像生成ラボ世界2位にランクイン - shiritomo",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBTV0tmank0NGpsYVQ4ak5PaE5xZnViRkhGb2o5QUFuSG5aZHlRS0hvdTZHS1dfMUFqNVNzRkdaZTRrdw?oc=5",
-      "pubDate": "2026-10-24T08:21:38Z",
-      "source": "Google News: 画像生成AI",
-      "category": "画像生成AI",
-      "memo": "Canvaが自社開発AI「Canva Craft」発表、画像生成ラボ世界2位にランクイン shiritomo",
-      "summaryLines": [
-        "Canvaが自社開発AI「Canva Craft」発表、画像生成ラボ世界2位にランクイン shiritomo",
-        "制作現場の効率化と、権利・品質管理の両方に関わります。",
-        "まどかAI観測所では、制作工程と著作権対応の変化を見ます。"
-      ]
-    },
-    {
-      "title": "AIイラスト・AI画像生成サイト｜無料で自動生成 - 小豆島町",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOenFScXBpdEpSeFNYd0pKXzJSR1M0S2l3azRnbmhwcklBUDRLZDFHdmlxZWpVY2t5S2plVlBQdFoxQnlrMFBQRVcxa09zZ3p5YjZ2a1BnMkJvRXFRS0lDWkJZbjItZFd0R1ZIcG1IYjBrSkpiWkhQamZtVUJBSlZmTG5jU082ellKQnVNeXFCM3NRMnFDTGlXY2ZZaExhM3BTWHhTWlR4bzBzdV9qWWoxWDJFTVptMkxQeFdWaDIybW5WeVByZkduR3FZSFZwQkxlWmZaQzhMb3NUaElnWUJjT3haY3lJamNqdHRjS2J0QU11SjRzNUc4N2tORGdlSGtERWNudjhiUDg4bnhFNHlDTU1hdkN4dVlRc2dMWXdNZVdidFZnSTZpTg?oc=5",
-      "pubDate": "2026-10-24T04:17:23Z",
-      "source": "Google News: 画像生成AI",
-      "category": "画像生成AI",
-      "memo": "AIイラスト・AI画像生成サイト｜無料で自動生成 小豆島町",
-      "summaryLines": [
-        "AIイラスト・AI画像生成サイト｜無料で自動生成 小豆島町",
-        "制作現場の効率化と、権利・品質管理の両方に関わります。",
-        "まどかAI観測所では、制作工程と著作権対応の変化を見ます。"
-      ]
-    },
-    {
-      "title": "NSFW AIジェネレーター｜無料で画像＆動画生成 - 小豆島町",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQSmxid0phRkFGMGlFYzBEbmlQam0yTWxtYWwwckp3UmotZ3NzcG80a3VZdXlhYW9ySG5FOTViSFRRRnA1RmZLb0VEVl95UWRFVHpQSGwxUmNOTXZMUGg3TFlmYUhhZ0xNOFIzOGRvcHlMUi1ESlkya0NNaDRVVkE4QVpDNU9lUGZmdW1QLUwyeTJ1cHVOZC1RckhhX0VwUlJROVI4dE9tQzM4dWUwQk1id1BOY1NxbGt0d2VwNjRmMDZia3dDUVlFVmxTakFUQVZhNUlIU0pBWWE5eE11dG1LbF9MNVp6ejRpVmxVRE9EQnVnMWE1cjRFVUxHZHNsZjcwUXVoWTNkZnhPU3pvcmxxME5EdmtfQXFoTzlRRTBHSTJfRkMxTVRKbg?oc=5",
-      "pubDate": "2026-10-24T04:17:02Z",
-      "source": "Google News: 画像生成AI",
+      "title": "無料 NSFW AIアニメジェネレーター — エロ動画生成ai - 小豆島町",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQOEYycHdBNTRfVDBTcExYcWpfQkgyaGFHbW1MVDc0Yi1TOGNtR1lPVm1hOHRvRk9WREhSaWtWUXJQcUJlQzNoX1FtLUwzc3hPNm1Cd0tKWTl1dE5Za0E5LTRZeTZEUGpIQkZQZ3lUaE4ycmRnNy1KRzc0RHRZSXo4RXFwcC1zb3dNZjlCcjA3UzJsZE9HSlJEZFBlU21XcGhVV0RjVEJreFNaMERWV1EyMnc3UUdka21DTGRoS283Mm4xNUg4TTB3UVRoMkRZZkZhOEE3OFdFOUFmZHFVZk81eUFKR2FEbjlwVnRQQllIa1lhSW1jN2Nrbl84b2V3YV9qQjZ6dmt5OTN3a1d2U1FfSFh1RmZIcEM4b2YtVE5wNld4QmpTZzJ6MA?oc=5",
+      "pubDate": "2026-10-24T04:17:59Z",
+      "source": "Google News: 生成AI",
       "category": "動画生成AI",
-      "memo": "NSFW AIジェネレーター｜無料で画像＆動画生成 小豆島町",
+      "memo": "無料 NSFW AIアニメジェネレーター — エロ動画生成ai 小豆島町",
       "summaryLines": [
-        "NSFW AIジェネレーター｜無料で画像＆動画生成 小豆島町",
+        "無料 NSFW AIアニメジェネレーター — エロ動画生成ai 小豆島町",
         "広告、教育、SNS向け動画制作のワークフローに影響します。",
         "まどかAI観測所では、動画制作のコストと信頼性の変化を見ます。"
       ]
     },
     {
-      "title": "チャット・画像・動画生成に対応したAIアダルトプラットフォーム - 小豆島町",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNSG5rR1pKQVdxRGZQc0pSbGMyMGFXU1JfeENJR3JCZ1hVQ29iT2NobVJwU3ZTdVRHV28zMWRVbUU4OElwbUl4V01BcFM2UzFQTDlYay1JMk9uc0lmSW5LbGxna3MydmIyZEJDWXdMeFk1Y0djZ2VRTjdKM2E1RGZEOWJiRDlld1ZWUFBpRmgtYWxpT0lucFBBZnVGR0pxR2YydnpMNVg5RGt6T2IzX0h3VDNDVG9EblB2bG9kQmNsZ1ZpemRoeEdHdFRXa0RjbTJLVlRCU09DS3NVMWdHSHVQMEVqRzJSZkpOQjFDd3ZqVU1KamRpZXljYm5tSlNPbnZVZG54YkoyT3pJSExXdlBUalVzMGkxNUhVbWkzbDlWRVNYWnBQZTZ6UQ?oc=5",
-      "pubDate": "2026-10-24T04:09:09Z",
-      "source": "Google News: 画像生成AI",
+      "title": "最強の無料動画生成AIツール5選【 2026 年版】 - 小豆島町",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxONlo1SjM5MUw3bXB4Si0zb191bExqZi1xMTExbXA5N2FQTlpLcFM4UnFqRXlWSlZTRm1LOTNNNC1ZUHpJUmM3NGVZdFJUczFhd1VxWVlUdXBlOXhQZHhGdjZ2MWctcFhiZWJtSXl2QTQ2ODFyMUw3MnRZR0tZbnFZTjY2ODJGN0UxNk1QT2FzOGg5cmtYOXF0Y2ZYYXF1Unl5S01FQWVVdzkwdWRSNEtmVzcwUFM2TFppVG9qYmxNWHVxNEx2QVNETkhGVGk1Sldqdlpwb1NfcjUwbTBsTHJKYTdxYWY5N0c5QjFHMGZsVTY4S1FiSkItTXlrdWtIN2hZTWw4d1Y3VWpmaEdwNHFVaHIzdVo1anh3RVpaa1ZfMnE5R3RLWEY3OQ?oc=5",
+      "pubDate": "2026-10-24T04:17:06Z",
+      "source": "Google News: 生成AI",
       "category": "動画生成AI",
-      "memo": "チャット・画像・動画生成に対応したAIアダルトプラットフォーム 小豆島町",
+      "memo": "最強の無料動画生成AIツール5選【 2026 年版】 小豆島町",
       "summaryLines": [
-        "チャット・画像・動画生成に対応したAIアダルトプラットフォーム 小豆島町",
+        "最強の無料動画生成AIツール5選【 2026 年版】 小豆島町",
         "広告、教育、SNS向け動画制作のワークフローに影響します。",
         "まどかAI観測所では、動画制作のコストと信頼性の変化を見ます。"
+      ]
+    },
+    {
+      "title": "無修正AI画像動画生成ツール - 小豆島町",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNM1dXeU1TLV9kSFBOd0lOTjNvSWduTGVQWTZrOTFwbTVvZE9UeUp1RkhvRFNrYkUtVExuQk41aV9oR2djbG12MGFvMTNpQ0Z2bXc5Ti1iZ3htRGV5NkNJYkYzbEFCYmpuZ0lBZ3BCdzMxSVRscWRxSnM5QVJiclN2QlNlVzF2aDlYeEhRVmlwX3B6ajNpcFM1eTl4YzlXWVVDQnJPTzZCSFFmMnlGaFE5SmdYZG1lRXVFUnNQUEpnSll0aUN2dUtUcUxScGs0OFdsUUxBMUJuYklTNWM0WjA1ZVFUQnBWSVg1RzJzcHVoazB6UHFUTVlNRnlXVzd4WGxvWnZHSEtoQ1hjWHpnSzhZcmFKbU4zeVFvcnZ0MjZkTjNSaWxVRlY5WQ?oc=5",
+      "pubDate": "2026-10-24T04:09:36Z",
+      "source": "Google News: 生成AI",
+      "category": "動画生成AI",
+      "memo": "無修正AI画像動画生成ツール 小豆島町",
+      "summaryLines": [
+        "無修正AI画像動画生成ツール 小豆島町",
+        "広告、教育、SNS向け動画制作のワークフローに影響します。",
+        "まどかAI観測所では、動画制作のコストと信頼性の変化を見ます。"
+      ]
+    },
+    {
+      "title": "ai 画像 生成 サイト 規制 なし - 小豆島町",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOaUtOX2RHeEoyczRxNnpYTHIyMGUwak9RZWlYNGhnLUo2RzFlX0RYZ2NJSTRjUVR3VWhqVlNDeU1pQ29OSExYWFpSSlB3em1TUE9vUHo0U1JOalViZXJEREhsVjd5OXctTHFVSXBSVlVfSGJYY0VmM29sY1pXb09IZTVxbDduS0ZYNG1WMlA2OFBRV1JHVVptQ1k5NVI2NzF6eGM2WGlPTWFOSWNoV1JnODFMejdWSmcwbV9GWnN0ek90VzhtUGE4enhNV09yd1QyWFV4LU1zX0FBbFRzZ1pkbVVybWJtVl9GdUxGRUtud1RGWlJzN0dla19Pc2dVT3pVcnJjbXh2SGJZYWMxWG8xbTgxcGg2WnpLdXhVeDJRZzNHaUhpT0FmSg?oc=5",
+      "pubDate": "2026-10-24T04:06:20Z",
+      "source": "Google News: 生成AI",
+      "category": "AI規制・著作権",
+      "memo": "ai 画像 生成 サイト 規制 なし 小豆島町",
+      "summaryLines": [
+        "ai 画像 生成 サイト 規制 なし 小豆島町",
+        "AI利用ルールやクリエイター保護の実務に関わる論点です。",
+        "まどかAI観測所では、実務で何を変える必要があるかを見ます。"
       ]
     },
     {
       "title": "中国系AIのARTEX、悪質改造が横行 公開停止後もサイバー攻撃に悪用か - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nV0JybUN0Y09lMUIxa0tKTXdBOWUxb3E0NGRMdUxJWEk3SVVUMm5iRzlQLUdKZ0ZqRU51Q1lSY2dpaGtrT3dQWVZlT3Nwbk0wRFlrRWdNU09jT2hDWkFVRnJhdk9lNmdhTWwzSw?oc=5",
       "pubDate": "2026-10-24T02:49:16Z",
-      "source": "Google News: AI",
+      "source": "Google News: 中国 AI",
       "category": "中国AI",
       "memo": "中国系AIのARTEX、悪質改造が横行 公開停止後もサイバー攻撃に悪用か 日本経済新聞",
       "summaryLines": [
@@ -387,32 +413,6 @@
       "memo": "中国政府系集団がAIで攻撃を自動化 世界の数百組織を標的、マイクロソフトが確認 東京報道新聞",
       "summaryLines": [
         "中国政府系集団がAIで攻撃を自動化 世界の数百組織を標的、マイクロソフトが確認 東京報道新聞",
-        "中国企業や政策の動きは、価格競争や技術潮流を見る材料になります。",
-        "まどかAI観測所では、日本や海外市場への影響を見ます。"
-      ]
-    },
-    {
-      "title": "中国国務院弁公庁、AIと雇用の調和へ意見書発表 18項目の任務で新たな雇用創出を目指す - BigGo ファイナンス",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtd3BfMnFERG9KV3FBVTd4ZWdRMFZQZ2tEXzJCSE1RakZiWUx5OVZ4b2dxa2FaRDlQV01kUU5hX2pSUTVoT2gtU1BESTZhaHFhaVdRZlR5LU9sdVBxekdlTTFCWm1QZzNOZ091aDRmTVlGSW1y?oc=5",
-      "pubDate": "2026-10-24T01:55:00Z",
-      "source": "Google News: 中国 AI",
-      "category": "中国AI",
-      "memo": "中国国務院弁公庁、AIと雇用の調和へ意見書発表 18項目の任務で新たな雇用創出を目指す BigGo ファイナンス",
-      "summaryLines": [
-        "中国国務院弁公庁、AIと雇用の調和へ意見書発表 18項目の任務で新たな雇用創出を目指す BigGo ファイナンス",
-        "中国企業や政策の動きは、価格競争や技術潮流を見る材料になります。",
-        "まどかAI観測所では、日本や海外市場への影響を見ます。"
-      ]
-    },
-    {
-      "title": "香港取引所がAI・半導体の2指数を発表、南方基金にETF発行を認可し中国本土市場に進出 - BigGo ファイナンス",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zQWR0RkJLRlk4SmY3bkRRRFJwOU1ka2ZXZGhoSm0zWFphWG9ycVJvb3FZRlo0QVFoRjRSQnhLa3pweHNQczZqZi1hYkNsZ2o5UGg0TUhocEF0LWdpZGw0TFFzSG9VOHd5UG96LWFfbGh2b3BC?oc=5",
-      "pubDate": "2026-10-24T01:25:00Z",
-      "source": "Google News: 中国 AI",
-      "category": "中国AI",
-      "memo": "香港取引所がAI・半導体の2指数を発表、南方基金にETF発行を認可し中国本土市場に進出 BigGo ファイナンス",
-      "summaryLines": [
-        "香港取引所がAI・半導体の2指数を発表、南方基金にETF発行を認可し中国本土市場に進出 BigGo ファイナンス",
         "中国企業や政策の動きは、価格競争や技術潮流を見る材料になります。",
         "まどかAI観測所では、日本や海外市場への影響を見ます。"
       ]
@@ -483,16 +483,16 @@
       ]
     },
     {
-      "title": "Oura sues rival Ultrahuman again, threatening its US smart ring comeback",
-      "link": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
-      "pubDate": "2026-10-23T04:22:57Z",
-      "source": "TechCrunch",
-      "category": "AI規制・著作権",
-      "memo": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of…",
+      "title": "Kaggleは「次の一歩へ踏み出す」のに役に立つ ー組み込み→画像AI→医療AI、3段階の越境が教えてくれたこと - ThinkIT",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoYWRxTFV5aDU0NW1VRmRwQXR5MnBWZzUwUi0zc3ZNcE1zN0NuaUpINDBuc0VDRDZZS1B6LWR3cjltcW0zbnUtbjVzNA?oc=5",
+      "pubDate": "2026-10-23T01:46:30Z",
+      "source": "Google News: 医療AI",
+      "category": "医療AI",
+      "memo": "Kaggleは「次の一歩へ踏み出す」のに役に立つ ー組み込み→画像AI→医療AI、3段階の越境が教えてくれたこと ThinkIT",
       "summaryLines": [
-        "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
-        "AI利用ルールやクリエイター保護の実務に関わる論点です。",
-        "まどかAI観測所では、実務で何を変える必要があるかを見ます。"
+        "Kaggleは「次の一歩へ踏み出す」のに役に立つ ー組み込み→画像AI→医療AI、3段階の越境が教えてくれたこと ThinkIT",
+        "医療現場での安全性、精度、運用体制に関わる動きです。",
+        "まどかAI観測所では、臨床で本当に使える形になるかを見ます。"
       ]
     },
     {
@@ -587,19 +587,6 @@
       ]
     },
     {
-      "title": "金融・医療・エンタメ「業界特化AIアプリ」の今 - 日経クロステック",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96dzBJU1JZZnZWYU5qQUZ6SmlzQjRJS3I2UXhtbkUtOXB3dXNwX1BFVjZNdGVLMHowVXFsUDA0cG80bW1LcDhfWEJ4dmdlTTVxamZYMFN6dzlJUWNNZnRJ?oc=5",
-      "pubDate": "2026-10-22T03:33:05Z",
-      "source": "Google News: 医療AI",
-      "category": "医療AI",
-      "memo": "金融・医療・エンタメ「業界特化AIアプリ」の今 日経クロステック",
-      "summaryLines": [
-        "金融・医療・エンタメ「業界特化AIアプリ」の今 日経クロステック",
-        "医療現場での安全性、精度、運用体制に関わる動きです。",
-        "まどかAI観測所では、臨床で本当に使える形になるかを見ます。"
-      ]
-    },
-    {
       "title": "Meta、Cambridge Analytica問題巡る訴訟で250億ドルの支払い命令",
       "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002484/",
       "pubDate": "2026-10-21T22:39:42Z",
@@ -621,6 +608,19 @@
       "memo": "博報堂、AI生成画像の著作権リスク可視化ツールを外販 類似度を数値化 BigGo ファイナンス",
       "summaryLines": [
         "博報堂、AI生成画像の著作権リスク可視化ツールを外販 類似度を数値化 BigGo ファイナンス",
+        "AI利用ルールやクリエイター保護の実務に関わる論点です。",
+        "まどかAI観測所では、実務で何を変える必要があるかを見ます。"
+      ]
+    },
+    {
+      "title": "「心に響く歌声」に感動、音楽チャートを揺るがすＡＩ歌手 著作権巡り論議も - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oZU9TUEZ3eXZkcllkNHIxbWc2Y1M1UFVLUUZxZzRpTjRybUV3cnhqTkNDUVE5b3diZTJLT0hzbHNCVUs1QmgtZkdGWFJHcmROY0VaVGlDMVRSM2VkUUtEZHUtdm1JUQ?oc=5",
+      "pubDate": "2026-10-18T23:42:30Z",
+      "source": "Google News: AI 著作権",
+      "category": "AI規制・著作権",
+      "memo": "「心に響く歌声」に感動、音楽チャートを揺るがすＡＩ歌手 著作権巡り論議も 동아일보",
+      "summaryLines": [
+        "「心に響く歌声」に感動、音楽チャートを揺るがすＡＩ歌手 著作権巡り論議も 동아일보",
         "AI利用ルールやクリエイター保護の実務に関わる論点です。",
         "まどかAI観測所では、実務で何を変える必要があるかを見ます。"
       ]
